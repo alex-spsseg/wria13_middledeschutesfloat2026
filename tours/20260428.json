@@ -1,0 +1,199 @@
+{
+  "name": "Middle Deschutes Float - Day 1 (4/28/2026)",
+  "sites": [
+    {
+      "site_id": "img_20260428_103556_00_769",
+      "display_name": "Float Image 1",
+      "lat": 46.841374756335284,
+      "lng": -122.58438129598188
+    },
+    {
+      "site_id": "img_20260428_104037_00_770",
+      "display_name": "Float Image 2",
+      "lat": 46.84131633421152,
+      "lng": -122.58438194963072
+    },
+    {
+      "site_id": "img_20260428_104119_00_771",
+      "display_name": "Float Image 3",
+      "lat": 46.84126182322244,
+      "lng": -122.58458955407735
+    },
+    {
+      "site_id": "img_20260428_104155_00_772",
+      "display_name": "Float Image 4",
+      "lat": 46.84131501191711,
+      "lng": -122.58504544544545
+    },
+    {
+      "site_id": "img_20260428_104234_00_773",
+      "display_name": "Float Image 5",
+      "lat": 46.841364764025634,
+      "lng": -122.58539679852528
+    },
+    {
+      "site_id": "img_20260428_104329_00_774",
+      "display_name": "Float Image 6",
+      "lat": 46.841351859177216,
+      "lng": -122.58576680950922
+    },
+    {
+      "site_id": "img_20260428_104438_00_775",
+      "display_name": "Float Image 7",
+      "lat": 46.84100251004016,
+      "lng": -122.5864689838162
+    },
+    {
+      "site_id": "img_20260428_104811_00_776",
+      "display_name": "Float Image 8",
+      "lat": 46.8409249754179,
+      "lng": -122.58688076122509
+    },
+    {
+      "site_id": "img_20260428_104924_00_777",
+      "display_name": "Float Image 9",
+      "lat": 46.8410946900701,
+      "lng": -122.58716515257396
+    },
+    {
+      "site_id": "img_20260428_105022_00_778",
+      "display_name": "Float Image 10",
+      "lat": 46.84122740281854,
+      "lng": -122.58761788815842
+    },
+    {
+      "site_id": "img_20260428_105100_00_779",
+      "display_name": "Float Image 11",
+      "lat": 46.84126151904678,
+      "lng": -122.58810108332749
+    },
+    {
+      "site_id": "img_20260428_105317_00_780",
+      "display_name": "Float Image 12",
+      "lat": 46.84122978352824,
+      "lng": -122.58849468004256
+    },
+    {
+      "site_id": "img_20260428_105420_00_781",
+      "display_name": "Float Image 13",
+      "lat": 46.84132866836302,
+      "lng": -122.58904537334762
+    },
+    {
+      "site_id": "img_20260428_105451_00_782",
+      "display_name": "Float Image 14",
+      "lat": 46.841482939304576,
+      "lng": -122.5895358177879
+    },
+    {
+      "site_id": "img_20260428_105548_00_783",
+      "display_name": "Float Image 15",
+      "lat": 46.84177007667474,
+      "lng": -122.59022788043737
+    },
+    {
+      "site_id": "img_20260428_105625_00_784",
+      "display_name": "Float Image 16",
+      "lat": 46.841972938745585,
+      "lng": -122.59057224185315
+    },
+    {
+      "site_id": "img_20260428_105733_00_785",
+      "display_name": "Float Image 17",
+      "lat": 46.84220880326836,
+      "lng": -122.59108226959687
+    },
+    {
+      "site_id": "img_20260428_105819_00_786",
+      "display_name": "Float Image 18",
+      "lat": 46.84240992675706,
+      "lng": -122.59144677374495
+    },
+    {
+      "site_id": "img_20260428_105916_00_787",
+      "display_name": "Float Image 19",
+      "lat": 46.84261454661968,
+      "lng": -122.59183596799375
+    },
+    {
+      "site_id": "img_20260428_110034_00_788",
+      "display_name": "Float Image 20",
+      "lat": 46.843042001126605,
+      "lng": -122.59241159314618
+    },
+    {
+      "site_id": "img_20260428_110132_00_789",
+      "display_name": "Float Image 21",
+      "lat": 46.84330337192769,
+      "lng": -122.59277826297914
+    },
+    {
+      "site_id": "img_20260428_110321_00_790",
+      "display_name": "Float Image 22",
+      "lat": 46.84365389819043,
+      "lng": -122.59349449975417
+    },
+    {
+      "site_id": "img_20260428_110437_00_791",
+      "display_name": "Float Image 23",
+      "lat": 46.84378783353246,
+      "lng": -122.59401008538192
+    },
+    {
+      "site_id": "img_20260428_110523_00_792",
+      "display_name": "Float Image 24",
+      "lat": 46.843902412636595,
+      "lng": -122.59423979364705
+    },
+    {
+      "site_id": "img_20260428_110601_00_793",
+      "display_name": "Float Image 25",
+      "lat": 46.84416211580201,
+      "lng": -122.59452252133369
+    },
+    {
+      "site_id": "img_20260428_110702_00_794",
+      "display_name": "Float Image 26",
+      "lat": 46.8445722995723,
+      "lng": -122.59512195807339
+    },
+    {
+      "site_id": "img_20260428_111054_00_795",
+      "display_name": "Float Image 27",
+      "lat": 46.844430926916225,
+      "lng": -122.59529659511233
+    },
+    {
+      "site_id": "img_20260428_111204_00_796",
+      "display_name": "Float Image 28",
+      "lat": 46.844047044376694,
+      "lng": -122.59545454290867
+    },
+    {
+      "site_id": "img_20260428_111305_00_797",
+      "display_name": "Float Image 29",
+      "lat": 46.844300290486565,
+      "lng": -122.5959910217847
+    },
+    {
+      "site_id": "img_20260428_111415_00_798",
+      "display_name": "Float Image 30",
+      "lat": 46.84463655462185,
+      "lng": -122.5964317519767
+    },
+    {
+      "site_id": "img_20260428_111505_00_799",
+      "display_name": "Float Image 31",
+      "lat": 46.845058882551754,
+      "lng": -122.59655234060453
+    },
+    {
+      "site_id": "img_20260428_111538_00_800",
+      "display_name": "Float Image 32",
+      "lat": 46.84523834871067,
+      "lng": -122.59648473370063
+    }
+  ],
+  "basemap_type": "esri_tile",
+  "basemap_url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/DeschutesLidar2024_REM_CMZ_middledeschutes/MapServer/tile/{z}/{y}/{x}"
+}

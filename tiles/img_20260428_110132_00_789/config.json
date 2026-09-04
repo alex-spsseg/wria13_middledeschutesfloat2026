@@ -1,0 +1,44 @@
+{
+  "mode": "single",
+  "format": "raw",
+  "yaw_1": 0.0,
+  "pitch_1": 0.0,
+  "yaw_2": 0.0,
+  "pitch_2": 0.0,
+  "lat": 46.84330337192769,
+  "lng": -122.59277826297914,
+  "label_1": "IMG_20260428_110132_00_789 (2026/04/28)",
+  "label_2": "",
+  "autorotate": false,
+  "hotspots_1": [
+    {
+      "yaw": 3.424023405217621,
+      "pitch": 0,
+      "title": "Upstream \u00b7 Stop 20",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260428_110034_00_788"
+    },
+    {
+      "yaw": 0.09746124307481062,
+      "pitch": 0,
+      "title": "Downstream \u00b7 Stop 22",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260428_110321_00_790"
+    }
+  ],
+  "hotspots_2": [],
+  "levels_1": [],
+  "levels_2": [],
+  "pin_style": "dot",
+  "basemap_type": "esri_tile",
+  "basemap_url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/DeschutesLidar2024_REM_CMZ_middledeschutes/MapServer/tile/{z}/{y}/{x}",
+  "mobile_1": 5000,
+  "mobile_2": 0,
+  "heading_offset": 300.0
+}
