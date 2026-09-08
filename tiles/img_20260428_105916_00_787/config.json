@@ -12,7 +12,7 @@
   "autorotate": false,
   "hotspots_1": [
     {
-      "yaw": 0.13172139872939995,
+      "yaw": 0.19368271884618496,
       "pitch": 0,
       "title": "Upstream \u00b7 Stop 18",
       "text": "",
@@ -22,7 +22,7 @@
       "target": "img_20260428_105819_00_786"
     },
     {
-      "yaw": 3.4444423287415895,
+      "yaw": 3.5064036488583747,
       "pitch": 0,
       "title": "Downstream \u00b7 Stop 20",
       "text": "",
@@ -40,5 +40,5 @@
   "basemap_url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/DeschutesLidar2024_REM_CMZ_middledeschutes/MapServer/tile/{z}/{y}/{x}",
   "mobile_1": 5000,
   "mobile_2": 0,
-  "heading_offset": 120.0
+  "heading_offset": 116.44987786424917
 }

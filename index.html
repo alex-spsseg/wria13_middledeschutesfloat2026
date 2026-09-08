@@ -129,9 +129,15 @@
 
     #site-map-resize-handle {
       position: absolute; z-index: 1600; top: 0; left: 0;
-      width: 16px; height: 16px; cursor: nwse-resize;
-      background: linear-gradient(135deg, #019fc4 0 40%, transparent 40% 100%);
+      width: 20px; height: 20px; cursor: nwse-resize;
+      background-color: rgba(1, 159, 196, 0.25);
       border-top-left-radius: 8px;
+      /* Diagonal grip lines, the same visual convention textareas and
+      windows already use for a draggable corner -- a plain colored
+      triangle here didn't read as "draggable" on its own, easy to
+      mistake for decoration instead of a control. */
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Cg stroke='%23019fc4' stroke-width='2' stroke-linecap='round'%3E%3Cline x1='4' y1='16' x2='16' y2='4'/%3E%3Cline x1='4' y1='11' x2='11' y2='4'/%3E%3Cline x1='4' y1='6' x2='6' y2='4'/%3E%3C/g%3E%3C/svg%3E");
+      background-repeat: no-repeat;
     }
 
     #site-map-fit-btn, #site-map-basemap-btn {
@@ -479,7 +485,7 @@
 </head>
 <body>
 
-  <div id="build-timestamp">Built 2026-09-04 16:13:17</div>
+  <div id="build-timestamp">Built 2026-09-08 16:15:36</div>
 
   <div id="status-banner"></div>
 
@@ -1351,6 +1357,7 @@
     // is the camera facing" isn't answerable at all, so showing a cone
     // anyway would just be confidently wrong instead of honestly absent.
     var viewConeLayer = null;
+    var viewConePolygons = [];
     var VIEWCONE_HALF_ANGLE = 30, VIEWCONE_RADIUS_M = 35;
 
     function destinationPoint(lat, lng, bearingDeg, distanceMeters) {
@@ -1383,6 +1390,24 @@
       var match = tourSiteOptions.find(s =>
           s.site_id.trim().toLowerCase().replace(/[\s-]+/g, '_') === siteIdToFind);
       return (match && match.lat != null && match.lng != null) ? [match.lat, match.lng] : null;
+    }
+
+    function computeDefaultYawFacingNext(sid, config) {
+      // A calibrated stop's default view can face the next stop
+      // automatically -- the same bearing math everything else here
+      // already uses, just applied once up front instead of needing
+      // Use This View set by hand for every single stop in a walk.
+      if ((config.yaw_1 || 0) !== 0 || (config.pitch_1 || 0) !== 0) return null;
+      if (config.heading_offset == null || config.lat == null || config.lng == null) return null;
+      if (!tourSiteOptions) return null;
+      var idx = tourSiteOptions.findIndex(s =>
+          s.site_id.trim().toLowerCase().replace(/[\s-]+/g, '_') === sid);
+      if (idx === -1 || idx + 1 >= tourSiteOptions.length) return null;
+      var next = tourSiteOptions[idx + 1];
+      if (next.lat == null || next.lng == null) return null;
+      var bearing = computeBearingJs(config.lat, config.lng, next.lat, next.lng);
+      var yawDeg = (bearing - config.heading_offset + 360) % 360;
+      return yawDeg * Math.PI / 180;
     }
 
     // -- calibrate heading by aiming the camera, not dragging a pin --
@@ -1451,7 +1476,8 @@
           var b = computeBearingJs(siteLatLng[0], siteLatLng[1], tLatLng[0], tLatLng[1]);
           var newYaw = (b - heading + 360) % 360;
           h.yaw = newYaw * Math.PI / 180;
-          h.pitch = 0;
+          // pitch deliberately untouched -- bearing is horizontal-only,
+          // overwriting it here would erase any manual vertical nudge
           var ref = hotspotUiMap.get(h);
           if (ref) ref.ctx.hotspotObj.setPosition({ yaw: h.yaw, pitch: h.pitch });
           snapped++;
@@ -1484,27 +1510,41 @@
     function updateViewCone() {
       if (!siteMap || siteMapPanel.style.display === 'none') return;
       if (!headingIsKnown) {
-        if (viewConeLayer) { siteMap.removeLayer(viewConeLayer); viewConeLayer = null; }
+        if (viewConeLayer) { siteMap.removeLayer(viewConeLayer); viewConeLayer = null; viewConePolygons = []; }
         return;
       }
       var center = currentSiteLatLng();
       if (!center || center[0] == null || center[1] == null) {
-        if (viewConeLayer) { siteMap.removeLayer(viewConeLayer); viewConeLayer = null; }
+        if (viewConeLayer) { siteMap.removeLayer(viewConeLayer); viewConeLayer = null; viewConePolygons = []; }
         return;
       }
       var liveYawDeg = viewL ? (viewL.parameters().yaw * 180 / Math.PI) : 0;
       var heading = (currentHeadingOffset + liveYawDeg + 360) % 360;
-      var points = [
+
+      // A fade-with-distance look (solid near the marker, see-through
+      // toward the far edge, like a flashlight beam) purely from
+      // overlapping-polygon opacity: three triangles from the same
+      // apex at shrinking radius, same low fillOpacity each, so the
+      // band nearest the marker sits under all three (stacking up to
+      // full strength) while the far edge is only ever covered by the
+      // single outermost, faintest one. No raw SVG gradient defs
+      // needed, which would otherwise have to be recomputed by hand
+      // every update just to stay aligned as the cone rotates.
+      var fractions = [1.0, 0.66, 0.35];
+      var pointSets = fractions.map(frac => [
         center,
-        destinationPoint(center[0], center[1], heading - VIEWCONE_HALF_ANGLE, VIEWCONE_RADIUS_M),
-        destinationPoint(center[0], center[1], heading + VIEWCONE_HALF_ANGLE, VIEWCONE_RADIUS_M),
-      ];
+        destinationPoint(center[0], center[1], heading - VIEWCONE_HALF_ANGLE, VIEWCONE_RADIUS_M * frac),
+        destinationPoint(center[0], center[1], heading + VIEWCONE_HALF_ANGLE, VIEWCONE_RADIUS_M * frac),
+      ]);
+
       if (viewConeLayer) {
-        viewConeLayer.setLatLngs(points);
+        viewConePolygons.forEach((poly, i) => poly.setLatLngs(pointSets[i]));
       } else {
-        viewConeLayer = L.polygon(points, {
-          color: '#019fc4', weight: 1, fillColor: '#019fc4', fillOpacity: 0.35, interactive: false,
-        }).addTo(siteMap);
+        viewConePolygons = pointSets.map((points, i) => L.polygon(points, {
+          color: '#019fc4', weight: i === 0 ? 1 : 0, fillColor: '#019fc4',
+          fillOpacity: 0.22, interactive: false,
+        }));
+        viewConeLayer = L.layerGroup(viewConePolygons).addTo(siteMap);
       }
     }
 
@@ -1670,12 +1710,16 @@
       updateViewCone();
     }
 
+    function openSiteMap() {
+      siteMapPanel.style.display = 'block';
+      mapToggleBtn.textContent = 'Hide Map';
+      renderMapData();
+    }
+
     mapToggleBtn.addEventListener('click', () => {
       var isHidden = siteMapPanel.style.display === 'none' || !siteMapPanel.style.display;
       if (isHidden) {
-        siteMapPanel.style.display = 'block';
-        mapToggleBtn.textContent = 'Hide Map';
-        renderMapData();
+        openSiteMap();
       } else {
         siteMapPanel.style.display = 'none';
         mapToggleBtn.textContent = 'Show Map';
@@ -2243,7 +2287,8 @@
             var otherBearing = computeBearingJs(siteLatLng[0], siteLatLng[1], otherTargetLatLng[0], otherTargetLatLng[1]);
             var newYaw = (otherBearing - heading + 360) % 360;
             h.yaw = newYaw * Math.PI / 180;
-            h.pitch = 0;
+            // pitch deliberately untouched -- same reasoning as the
+            // view-aim calibrate path, bearing is horizontal-only
             var ref = hotspotUiMap.get(h);
             if (ref) ref.ctx.hotspotObj.setPosition({ yaw: h.yaw, pitch: h.pitch });
             snapped++;
@@ -2455,6 +2500,14 @@
         configPromise.then(config => {
           var isTiled = config.format === 'tiled';
           defaultViewL = { yaw: config.yaw_1 || 0, pitch: config.pitch_1 || 0, fov: Math.PI / 4 };
+          // Only ever a fallback for a stop that's still at its
+          // untouched default (yaw/pitch both exactly 0 -- Use This
+          // View was never clicked here) and already has a calibrated
+          // heading -- never overrides a real, intentionally-set
+          // default view, and never applies at all until that stop's
+          // actually aligned.
+          var facingYaw = computeDefaultYawFacingNext(sid, config);
+          if (facingYaw != null) defaultViewL.yaw = facingYaw;
           viewL = new Marzipano.RectilinearView(defaultViewL, limiter);
 
           var geometry, source;
@@ -2534,6 +2587,7 @@
               basemapType: manifest.basemap_type || 'osm', basemapUrl: manifest.basemap_url || '',
             };
             mapToggleBtn.style.display = 'inline-block';
+            openSiteMap();
           }
 
           if (sites.length > 1) {
