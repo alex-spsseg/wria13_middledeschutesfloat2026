@@ -1,5 +1,5 @@
 {
-  "name": "Middle Deschutes Float - Day 1 (4/28/2026)",
+  "name": "Middle Deschutes Float - Day 1",
   "sites": [
     {
       "site_id": "img_20260428_103556_00_769",
@@ -196,6 +196,8 @@
   ],
   "basemap_type": "esri_tile",
   "basemap_url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/DeschutesLidar2024_REM_CMZ_middledeschutes/MapServer/tile/{z}/{y}/{x}",
+  "overlays": [],
   "forward_label": "Downstream",
-  "backward_label": "Upstream"
+  "backward_label": "Upstream",
+  "field_visit_date": "2026-04-28"
 }
