@@ -194,9 +194,17 @@
       "lng": -122.59648473370063
     }
   ],
-  "basemap_type": "esri_tile",
-  "basemap_url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/DeschutesLidar2024_REM_CMZ_middledeschutes/MapServer/tile/{z}/{y}/{x}",
-  "overlays": [],
+  "basemap_type": "xyz_tile",
+  "basemap_url": "http://mt0.google.com/vt/lyrs=s&hl=en&x={x}&y={y}&z={z}",
+  "overlays": [
+    {
+      "label": "Relative Elavtion Model (2024 LiDAR)",
+      "url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/DeschutesLidar2024_REM_CMZ_middledeschutes/MapServer/tile/{z}/{y}/{x}",
+      "opacity": 0.8,
+      "default_on": true,
+      "type": "tile"
+    }
+  ],
   "forward_label": "Downstream",
   "backward_label": "Upstream",
   "field_visit_date": "2026-04-28"
