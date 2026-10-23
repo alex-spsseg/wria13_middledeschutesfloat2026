@@ -1,0 +1,35 @@
+{
+  "mode": "single",
+  "format": "raw",
+  "yaw_1": 0.0,
+  "pitch_1": 0.0,
+  "yaw_2": 0.0,
+  "pitch_2": 0.0,
+  "lat": 46.91658554634051,
+  "lng": -122.80601584436421,
+  "label_1": "IMG_20260429_151105_00_248 (2026/04/29)",
+  "label_2": "",
+  "autorotate": false,
+  "hotspots_1": [],
+  "hotspots_2": [],
+  "levels_1": [],
+  "levels_2": [],
+  "pin_style": "dot",
+  "basemap_type": "xyz_tile",
+  "basemap_url": "http://mt0.google.com/vt/lyrs=s&hl=en&x={x}&y={y}&z={z}",
+  "mobile_1": 5000,
+  "mobile_2": 0,
+  "heading_offset": null,
+  "overlays": [
+    {
+      "label": "Relative Elavtion Model (2024 LiDAR)",
+      "url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/DeschutesLidar2024_REM_CMZ_middledeschutes/MapServer/tile/{z}/{y}/{x}",
+      "opacity": 0.8,
+      "default_on": true,
+      "type": "tile"
+    }
+  ],
+  "alt_checked": true,
+  "alt": 51.8,
+  "float": true
+}

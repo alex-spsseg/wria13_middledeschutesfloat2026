@@ -26,11 +26,21 @@
   "levels_1": [],
   "levels_2": [],
   "pin_style": "dot",
-  "basemap_type": "esri_tile",
-  "basemap_url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/DeschutesLidar2024_REM_CMZ_middledeschutes/MapServer/tile/{z}/{y}/{x}",
+  "basemap_type": "xyz_tile",
+  "basemap_url": "http://mt0.google.com/vt/lyrs=s&hl=en&x={x}&y={y}&z={z}",
   "mobile_1": 5000,
   "mobile_2": 0,
   "heading_offset": 80.0,
+  "overlays": [
+    {
+      "label": "Relative Elavtion Model (2024 LiDAR)",
+      "url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/DeschutesLidar2024_REM_CMZ_middledeschutes/MapServer/tile/{z}/{y}/{x}",
+      "opacity": 0.8,
+      "default_on": true,
+      "type": "tile"
+    }
+  ],
   "alt_checked": true,
-  "alt": 104.05
+  "alt": 104.05,
+  "float": true
 }

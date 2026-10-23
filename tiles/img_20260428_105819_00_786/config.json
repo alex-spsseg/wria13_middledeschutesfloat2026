@@ -40,7 +40,8 @@
   "basemap_url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/DeschutesLidar2024_REM_CMZ_middledeschutes/MapServer/tile/{z}/{y}/{x}",
   "mobile_1": 5000,
   "mobile_2": 0,
-  "heading_offset": 60.81143960473844,
+  "heading_offset": 70.0,
   "alt_checked": true,
-  "alt": 105.92
+  "alt": 105.92,
+  "float": true
 }

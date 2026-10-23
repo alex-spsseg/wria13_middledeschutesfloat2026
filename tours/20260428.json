@@ -1,229 +1,3983 @@
 {
-  "name": "Middle Deschutes Float - Day 1",
+  "name": "Middle Deschutes Float",
   "sites": [
     {
       "site_id": "img_20260428_103556_00_769",
-      "display_name": "Float Image 1",
+      "display_name": "Day 1 - Stop 1",
       "lat": 46.841374756335284,
       "lng": -122.58438129598188,
       "alt": 109.8
     },
     {
       "site_id": "img_20260428_104037_00_770",
-      "display_name": "Float Image 2",
+      "display_name": "Day 1 - Stop 2",
       "lat": 46.84131633421152,
       "lng": -122.58438194963072,
+      "platform": "float",
       "alt": 107.45
     },
     {
       "site_id": "img_20260428_104119_00_771",
-      "display_name": "Float Image 3",
+      "display_name": "Day 1 - Stop 3",
       "lat": 46.84126182322244,
       "lng": -122.58458955407735,
+      "platform": "float",
       "alt": 107.47
     },
     {
       "site_id": "img_20260428_104155_00_772",
-      "display_name": "Float Image 4",
+      "display_name": "Day 1 - Stop 4",
       "lat": 46.84131501191711,
       "lng": -122.58504544544545,
+      "platform": "float",
       "alt": 107.19
     },
     {
       "site_id": "img_20260428_104234_00_773",
-      "display_name": "Float Image 5",
+      "display_name": "Day 1 - Stop 5",
       "lat": 46.841364764025634,
       "lng": -122.58539679852528,
+      "platform": "float",
       "alt": 107.14
     },
     {
       "site_id": "img_20260428_104329_00_774",
-      "display_name": "Float Image 6",
+      "display_name": "Day 1 - Stop 6",
       "lat": 46.841351859177216,
       "lng": -122.58576680950922,
+      "platform": "float",
       "alt": 107.13
     },
     {
       "site_id": "img_20260428_104438_00_775",
-      "display_name": "Float Image 7",
+      "display_name": "Day 1 - Stop 7",
       "lat": 46.84100251004016,
       "lng": -122.5864689838162,
+      "platform": "float",
       "alt": 106.96
     },
     {
       "site_id": "img_20260428_104811_00_776",
-      "display_name": "Float Image 8",
+      "display_name": "Day 1 - Stop 8",
       "lat": 46.8409249754179,
       "lng": -122.58688076122509,
+      "platform": "float",
       "alt": 107.05
     },
     {
       "site_id": "img_20260428_104924_00_777",
-      "display_name": "Float Image 9",
+      "display_name": "Day 1 - Stop 9",
       "lat": 46.8410946900701,
       "lng": -122.58716515257396,
+      "platform": "float",
       "alt": 106.95
     },
     {
       "site_id": "img_20260428_105022_00_778",
-      "display_name": "Float Image 10",
+      "display_name": "Day 1 - Stop 10",
       "lat": 46.84122740281854,
       "lng": -122.58761788815842,
+      "platform": "float",
       "alt": 107.06
     },
     {
       "site_id": "img_20260428_105100_00_779",
-      "display_name": "Float Image 11",
+      "display_name": "Day 1 - Stop 11",
       "lat": 46.84126151904678,
       "lng": -122.58810108332749,
+      "platform": "float",
       "alt": 106.31
     },
     {
       "site_id": "img_20260428_105317_00_780",
-      "display_name": "Float Image 12",
+      "display_name": "Day 1 - Stop 12",
       "lat": 46.84122978352824,
       "lng": -122.58849468004256,
+      "platform": "float",
       "alt": 106.17
     },
     {
       "site_id": "img_20260428_105420_00_781",
-      "display_name": "Float Image 13",
+      "display_name": "Day 1 - Stop 13",
       "lat": 46.84132866836302,
       "lng": -122.58904537334762,
+      "platform": "float",
       "alt": 106.0
     },
     {
       "site_id": "img_20260428_105451_00_782",
-      "display_name": "Float Image 14",
+      "display_name": "Day 1 - Stop 14",
       "lat": 46.841482939304576,
       "lng": -122.5895358177879,
+      "platform": "float",
       "alt": 106.07
     },
     {
       "site_id": "img_20260428_105548_00_783",
-      "display_name": "Float Image 15",
+      "display_name": "Day 1 - Stop 15",
       "lat": 46.84177007667474,
       "lng": -122.59022788043737,
+      "platform": "float",
       "alt": 105.87
     },
     {
       "site_id": "img_20260428_105625_00_784",
-      "display_name": "Float Image 16",
+      "display_name": "Day 1 - Stop 16",
       "lat": 46.841972938745585,
       "lng": -122.59057224185315,
+      "platform": "float",
       "alt": 105.91
     },
     {
       "site_id": "img_20260428_105733_00_785",
-      "display_name": "Float Image 17",
+      "display_name": "Day 1 - Stop 17",
       "lat": 46.84220880326836,
       "lng": -122.59108226959687,
+      "platform": "float",
       "alt": 105.97
     },
     {
       "site_id": "img_20260428_105819_00_786",
-      "display_name": "Float Image 18",
+      "display_name": "Day 1 - Stop 18",
       "lat": 46.84240992675706,
       "lng": -122.59144677374495,
+      "platform": "float",
       "alt": 105.92
     },
     {
       "site_id": "img_20260428_105916_00_787",
-      "display_name": "Float Image 19",
+      "display_name": "Day 1 - Stop 19",
       "lat": 46.84261454661968,
       "lng": -122.59183596799375,
+      "platform": "float",
       "alt": 105.58
     },
     {
       "site_id": "img_20260428_110034_00_788",
-      "display_name": "Float Image 20",
+      "display_name": "Day 1 - Stop 20",
       "lat": 46.843042001126605,
       "lng": -122.59241159314618,
+      "platform": "float",
       "alt": 105.37
     },
     {
       "site_id": "img_20260428_110132_00_789",
-      "display_name": "Float Image 21",
+      "display_name": "Day 1 - Stop 21",
       "lat": 46.84330337192769,
       "lng": -122.59277826297914,
+      "platform": "float",
       "alt": 105.37
     },
     {
       "site_id": "img_20260428_110321_00_790",
-      "display_name": "Float Image 22",
+      "display_name": "Day 1 - Stop 22",
       "lat": 46.84365389819043,
       "lng": -122.59349449975417,
+      "platform": "float",
       "alt": 105.32
     },
     {
       "site_id": "img_20260428_110437_00_791",
-      "display_name": "Float Image 23",
+      "display_name": "Day 1 - Stop 23",
       "lat": 46.84378783353246,
       "lng": -122.59401008538192,
+      "platform": "float",
       "alt": 105.35
     },
     {
       "site_id": "img_20260428_110523_00_792",
-      "display_name": "Float Image 24",
+      "display_name": "Day 1 - Stop 24",
       "lat": 46.843902412636595,
       "lng": -122.59423979364705,
+      "platform": "float",
       "alt": 105.35
     },
     {
       "site_id": "img_20260428_110601_00_793",
-      "display_name": "Float Image 25",
+      "display_name": "Day 1 - Stop 25",
       "lat": 46.84416211580201,
       "lng": -122.59452252133369,
+      "platform": "float",
       "alt": 105.06
     },
     {
       "site_id": "img_20260428_110702_00_794",
-      "display_name": "Float Image 26",
+      "display_name": "Day 1 - Stop 26",
       "lat": 46.8445722995723,
       "lng": -122.59512195807339,
+      "platform": "float",
       "alt": 104.71
     },
     {
       "site_id": "img_20260428_111054_00_795",
-      "display_name": "Float Image 27",
+      "display_name": "Day 1 - Stop 27",
       "lat": 46.844430926916225,
       "lng": -122.59529659511233,
+      "platform": "float",
       "alt": 104.66
     },
     {
       "site_id": "img_20260428_111204_00_796",
-      "display_name": "Float Image 28",
+      "display_name": "Day 1 - Stop 28",
       "lat": 46.844047044376694,
       "lng": -122.59545454290867,
+      "platform": "float",
       "alt": 104.61
     },
     {
       "site_id": "img_20260428_111305_00_797",
-      "display_name": "Float Image 29",
+      "display_name": "Day 1 - Stop 29",
       "lat": 46.844300290486565,
       "lng": -122.5959910217847,
+      "platform": "float",
       "alt": 104.41
     },
     {
       "site_id": "img_20260428_111415_00_798",
-      "display_name": "Float Image 30",
+      "display_name": "Day 1 - Stop 30",
       "lat": 46.84463655462185,
       "lng": -122.5964317519767,
+      "platform": "float",
       "alt": 104.14
     },
     {
       "site_id": "img_20260428_111505_00_799",
-      "display_name": "Float Image 31",
+      "display_name": "Day 1 - Stop 31",
       "lat": 46.845058882551754,
       "lng": -122.59655234060453,
+      "platform": "float",
       "alt": 104.0
     },
     {
       "site_id": "img_20260428_111538_00_800",
-      "display_name": "Float Image 32",
+      "display_name": "Day 1 - Stop 32",
       "lat": 46.84523834871067,
       "lng": -122.59648473370063,
+      "platform": "float",
       "alt": 104.05
+    },
+    {
+      "site_id": "img_20260428_111749_00_801",
+      "display_name": "Day 1 - Stop 33",
+      "lat": 46.84547465277778,
+      "lng": -122.59705582443948,
+      "platform": "float",
+      "alt": 104.12
+    },
+    {
+      "site_id": "img_20260428_112110_00_802",
+      "display_name": "Day 1 - Stop 34",
+      "lat": 46.84551675041876,
+      "lng": -122.59735631942695,
+      "platform": "float",
+      "alt": 104.06
+    },
+    {
+      "site_id": "img_20260428_112246_00_803",
+      "display_name": "Day 1 - Stop 35",
+      "lat": 46.84531069077643,
+      "lng": -122.59780884410858,
+      "platform": "float",
+      "alt": 104.04
+    },
+    {
+      "site_id": "img_20260428_112331_00_804",
+      "display_name": "Day 1 - Stop 36",
+      "lat": 46.84500015296133,
+      "lng": -122.59809775791784,
+      "platform": "float",
+      "alt": 103.91
+    },
+    {
+      "site_id": "img_20260428_112512_00_805",
+      "display_name": "Day 1 - Stop 37",
+      "lat": 46.84464742920754,
+      "lng": -122.59847966355571,
+      "platform": "float",
+      "alt": 103.93
+    },
+    {
+      "site_id": "img_20260428_112611_00_806",
+      "display_name": "Day 1 - Stop 38",
+      "lat": 46.844313428193765,
+      "lng": -122.59923754969658,
+      "platform": "float",
+      "alt": 103.65
+    },
+    {
+      "site_id": "img_20260428_112823_00_807",
+      "display_name": "Day 1 - Stop 39",
+      "lat": 46.84456515706516,
+      "lng": -122.6000399118247,
+      "platform": "float",
+      "alt": 103.41
+    },
+    {
+      "site_id": "img_20260428_112958_00_808",
+      "display_name": "Day 1 - Stop 40",
+      "lat": 46.84483605177667,
+      "lng": -122.60037905874432,
+      "platform": "float",
+      "alt": 103.24
+    },
+    {
+      "site_id": "img_20260428_113214_00_809",
+      "display_name": "Day 1 - Stop 41",
+      "lat": 46.84451355328839,
+      "lng": -122.6011234319328,
+      "platform": "float",
+      "alt": 103.24
+    },
+    {
+      "site_id": "img_20260428_113258_00_810",
+      "display_name": "Day 1 - Stop 42",
+      "lat": 46.84438140338337,
+      "lng": -122.60141434265287,
+      "platform": "float",
+      "alt": 103.25
+    },
+    {
+      "site_id": "img_20260428_113330_00_811",
+      "display_name": "Day 1 - Stop 43",
+      "lat": 46.84426520257003,
+      "lng": -122.60161935774555,
+      "platform": "float",
+      "alt": 103.26
+    },
+    {
+      "site_id": "img_20260428_113455_00_812",
+      "display_name": "Day 1 - Stop 44",
+      "lat": 46.84417707018282,
+      "lng": -122.60197832354346,
+      "platform": "float",
+      "alt": 103.24
+    },
+    {
+      "site_id": "img_20260428_113655_00_813",
+      "display_name": "Day 1 - Stop 45",
+      "lat": 46.844254739943636,
+      "lng": -122.60306426701324,
+      "platform": "float",
+      "alt": 105.39
+    },
+    {
+      "site_id": "img_20260428_113833_00_814",
+      "display_name": "Day 1 - Stop 46",
+      "lat": 46.84427369799537,
+      "lng": -122.60338250031316,
+      "platform": "float",
+      "alt": 102.93
+    },
+    {
+      "site_id": "img_20260428_114042_00_815",
+      "display_name": "Day 1 - Stop 47",
+      "lat": 46.844358053007134,
+      "lng": -122.60406098153547,
+      "platform": "float",
+      "alt": 102.92
+    },
+    {
+      "site_id": "img_20260428_114141_00_816",
+      "display_name": "Day 1 - Stop 48",
+      "lat": 46.8445266993389,
+      "lng": -122.60496199138764,
+      "platform": "float",
+      "alt": 102.27
+    },
+    {
+      "site_id": "img_20260428_114241_00_817",
+      "display_name": "Day 1 - Stop 49",
+      "lat": 46.844690111954606,
+      "lng": -122.60566295844073,
+      "platform": "float",
+      "alt": 102.33
+    },
+    {
+      "site_id": "img_20260428_114441_00_820",
+      "display_name": "Day 1 - Stop 50",
+      "lat": 46.84492141951838,
+      "lng": -122.6065300997592,
+      "platform": "float",
+      "alt": 103.28
+    },
+    {
+      "site_id": "img_20260428_114521_00_821",
+      "display_name": "Day 1 - Stop 51",
+      "lat": 46.84505589517179,
+      "lng": -122.60697295868268,
+      "platform": "float",
+      "alt": 106.77
+    },
+    {
+      "site_id": "img_20260428_114705_00_822",
+      "display_name": "Day 1 - Stop 52",
+      "lat": 46.84528785103785,
+      "lng": -122.60764888931443,
+      "platform": "float",
+      "alt": 106.22
+    },
+    {
+      "site_id": "img_20260428_114803_00_823",
+      "display_name": "Day 1 - Stop 53",
+      "lat": 46.845473010451336,
+      "lng": -122.60835890198003,
+      "platform": "float",
+      "alt": 106.55
+    },
+    {
+      "site_id": "img_20260428_114909_00_824",
+      "display_name": "Day 1 - Stop 54",
+      "lat": 46.84542474712906,
+      "lng": -122.60881490671812,
+      "platform": "float",
+      "alt": 102.5
+    },
+    {
+      "site_id": "img_20260428_115101_00_825",
+      "display_name": "Day 1 - Stop 55",
+      "lat": 46.84541583698394,
+      "lng": -122.60886981094184,
+      "platform": "float",
+      "alt": 102.12
+    },
+    {
+      "site_id": "img_20260428_115159_00_826",
+      "display_name": "Day 1 - Stop 56",
+      "lat": 46.845486853567756,
+      "lng": -122.60915235525025,
+      "platform": "float",
+      "alt": 102.12
+    },
+    {
+      "site_id": "img_20260428_115303_00_827",
+      "display_name": "Day 1 - Stop 57",
+      "lat": 46.84538439472175,
+      "lng": -122.60952829601989,
+      "platform": "float",
+      "alt": 102.31
+    },
+    {
+      "site_id": "img_20260428_115334_00_828",
+      "display_name": "Day 1 - Stop 58",
+      "lat": 46.84511253764464,
+      "lng": -122.60981301307388,
+      "platform": "float",
+      "alt": 101.77
+    },
+    {
+      "site_id": "img_20260428_115445_00_829",
+      "display_name": "Day 1 - Stop 59",
+      "lat": 46.84475361453774,
+      "lng": -122.61008610063358,
+      "platform": "float",
+      "alt": 101.89
+    },
+    {
+      "site_id": "img_20260428_115727_00_830",
+      "display_name": "Day 1 - Stop 60",
+      "lat": 46.844515179830175,
+      "lng": -122.61047694275182,
+      "platform": "float",
+      "alt": 101.76
+    },
+    {
+      "site_id": "img_20260428_115824_00_831",
+      "display_name": "Day 1 - Stop 61",
+      "lat": 46.84451098268456,
+      "lng": -122.61106771382387,
+      "platform": "float",
+      "alt": 101.71
+    },
+    {
+      "site_id": "img_20260428_115913_00_832",
+      "display_name": "Day 1 - Stop 62",
+      "lat": 46.844609471094714,
+      "lng": -122.61153528033962,
+      "platform": "float",
+      "alt": 101.72
+    },
+    {
+      "site_id": "img_20260428_115951_00_833",
+      "display_name": "Day 1 - Stop 63",
+      "lat": 46.84471387117455,
+      "lng": -122.61191674021771,
+      "platform": "float",
+      "alt": 101.64
+    },
+    {
+      "site_id": "img_20260428_120114_00_834",
+      "display_name": "Day 1 - Stop 64",
+      "lat": 46.845003506311365,
+      "lng": -122.61304021015397,
+      "platform": "float",
+      "alt": 101.23
+    },
+    {
+      "site_id": "img_20260428_120228_00_835",
+      "display_name": "Day 1 - Stop 65",
+      "lat": 46.845144453719165,
+      "lng": -122.61376986683848,
+      "platform": "float",
+      "alt": 100.83
+    },
+    {
+      "site_id": "img_20260428_120319_00_836",
+      "display_name": "Day 1 - Stop 66",
+      "lat": 46.84515650531046,
+      "lng": -122.6144001996008,
+      "platform": "float",
+      "alt": 101.28
+    },
+    {
+      "site_id": "img_20260428_120401_00_837",
+      "display_name": "Day 1 - Stop 67",
+      "lat": 46.84512787370338,
+      "lng": -122.61514761109952,
+      "platform": "float",
+      "alt": 100.42
+    },
+    {
+      "site_id": "img_20260428_120454_00_838",
+      "display_name": "Day 1 - Stop 68",
+      "lat": 46.845070107926404,
+      "lng": -122.61590251638087,
+      "platform": "float",
+      "alt": 100.45
+    },
+    {
+      "site_id": "img_20260428_121031_00_839",
+      "display_name": "Day 1 - Stop 69",
+      "lat": 46.84516528210454,
+      "lng": -122.6163952657892,
+      "platform": "float",
+      "alt": 100.49
+    },
+    {
+      "site_id": "img_20260428_121249_00_840",
+      "display_name": "Day 1 - Stop 70",
+      "lat": 46.84514663759566,
+      "lng": -122.61678061517634,
+      "platform": "float",
+      "alt": 100.39
+    },
+    {
+      "site_id": "img_20260428_121420_00_841",
+      "display_name": "Day 1 - Stop 71",
+      "lat": 46.84522215480043,
+      "lng": -122.61803284187722,
+      "platform": "float",
+      "alt": 100.33
+    },
+    {
+      "site_id": "img_20260428_121506_00_842",
+      "display_name": "Day 1 - Stop 72",
+      "lat": 46.845259863765044,
+      "lng": -122.6186605772439,
+      "platform": "float",
+      "alt": 104.14
+    },
+    {
+      "site_id": "img_20260428_121601_00_843",
+      "display_name": "Day 1 - Stop 73",
+      "lat": 46.845246539262526,
+      "lng": -122.61928328995049,
+      "platform": "float",
+      "alt": 100.22
+    },
+    {
+      "site_id": "img_20260428_121700_00_844",
+      "display_name": "Day 1 - Stop 74",
+      "lat": 46.84536620776478,
+      "lng": -122.619917151419,
+      "platform": "float",
+      "alt": 100.34
+    },
+    {
+      "site_id": "img_20260428_121855_00_845",
+      "display_name": "Day 1 - Stop 75",
+      "lat": 46.84548588164614,
+      "lng": -122.62058825892713,
+      "platform": "float",
+      "alt": 102.22
+    },
+    {
+      "site_id": "img_20260428_122009_00_846",
+      "display_name": "Day 1 - Stop 76",
+      "lat": 46.84552401885831,
+      "lng": -122.62093792261047,
+      "platform": "float",
+      "alt": 100.04
+    },
+    {
+      "site_id": "img_20260428_122058_00_847",
+      "display_name": "Day 1 - Stop 77",
+      "lat": 46.84579140601728,
+      "lng": -122.62143948395857,
+      "platform": "float",
+      "alt": 101.44
+    },
+    {
+      "site_id": "img_20260428_122207_00_848",
+      "display_name": "Day 1 - Stop 78",
+      "lat": 46.84606613005051,
+      "lng": -122.62189169381107,
+      "platform": "float",
+      "alt": 103.48
+    },
+    {
+      "site_id": "img_20260428_122308_00_849",
+      "display_name": "Day 1 - Stop 79",
+      "lat": 46.8463317535545,
+      "lng": -122.62272556297945,
+      "platform": "float",
+      "alt": 99.7
+    },
+    {
+      "site_id": "img_20260428_122405_00_850",
+      "display_name": "Day 1 - Stop 80",
+      "lat": 46.84655477031802,
+      "lng": -122.62339450285565,
+      "platform": "float",
+      "alt": 99.5
+    },
+    {
+      "site_id": "img_20260428_122451_00_851",
+      "display_name": "Day 1 - Stop 81",
+      "lat": 46.84674771463576,
+      "lng": -122.62377990698717,
+      "platform": "float",
+      "alt": 99.43
+    },
+    {
+      "site_id": "img_20260428_122530_00_852",
+      "display_name": "Day 1 - Stop 82",
+      "lat": 46.846832831187804,
+      "lng": -122.62416965709728,
+      "platform": "float",
+      "alt": 103.1
+    },
+    {
+      "site_id": "img_20260428_122701_00_853",
+      "display_name": "Day 1 - Stop 83",
+      "lat": 46.84683537752937,
+      "lng": -122.62467409281862,
+      "platform": "float",
+      "alt": 99.33
+    },
+    {
+      "site_id": "img_20260428_123825_00_854",
+      "display_name": "Day 1 - Stop 84",
+      "lat": 46.846898586456284,
+      "lng": -122.62497935162764,
+      "platform": "float",
+      "alt": 98.3
+    },
+    {
+      "site_id": "img_20260428_123857_00_855",
+      "display_name": "Day 1 - Stop 85",
+      "lat": 46.84694600091313,
+      "lng": -122.62546520002618,
+      "platform": "float",
+      "alt": 100.64
+    },
+    {
+      "site_id": "img_20260428_123944_00_856",
+      "display_name": "Day 1 - Stop 86",
+      "lat": 46.847245684598626,
+      "lng": -122.62603482817075,
+      "platform": "float",
+      "alt": 101.1
+    },
+    {
+      "site_id": "img_20260428_124052_00_857",
+      "display_name": "Day 1 - Stop 87",
+      "lat": 46.84731898029135,
+      "lng": -122.62636793198892,
+      "platform": "float",
+      "alt": 98.26
+    },
+    {
+      "site_id": "img_20260428_124126_00_858",
+      "display_name": "Day 1 - Stop 88",
+      "lat": 46.84741656997625,
+      "lng": -122.62682822852177,
+      "platform": "float",
+      "alt": 98.76
+    },
+    {
+      "site_id": "img_20260428_124225_00_859",
+      "display_name": "Day 1 - Stop 89",
+      "lat": 46.84760173927727,
+      "lng": -122.62742185522652,
+      "platform": "float",
+      "alt": 98.71
+    },
+    {
+      "site_id": "img_20260428_124318_00_860",
+      "display_name": "Day 1 - Stop 90",
+      "lat": 46.84774852660773,
+      "lng": -122.62801240866716,
+      "platform": "float",
+      "alt": 98.52
+    },
+    {
+      "site_id": "img_20260428_124406_00_861",
+      "display_name": "Day 1 - Stop 91",
+      "lat": 46.84797299188357,
+      "lng": -122.62876261935169,
+      "platform": "float",
+      "alt": 98.15
+    },
+    {
+      "site_id": "img_20260428_124537_00_862",
+      "display_name": "Day 1 - Stop 92",
+      "lat": 46.84805545229244,
+      "lng": -122.6291533319479,
+      "platform": "float",
+      "alt": 98.06
+    },
+    {
+      "site_id": "img_20260428_124730_00_863",
+      "display_name": "Day 1 - Stop 93",
+      "lat": 46.84821091766413,
+      "lng": -122.63002832345909,
+      "platform": "float",
+      "alt": 99.73
+    },
+    {
+      "site_id": "img_20260428_124838_00_864",
+      "display_name": "Day 1 - Stop 94",
+      "lat": 46.84845952085915,
+      "lng": -122.63052175368138,
+      "platform": "float",
+      "alt": 97.93
+    },
+    {
+      "site_id": "img_20260428_124937_00_865",
+      "display_name": "Day 1 - Stop 95",
+      "lat": 46.84876088369071,
+      "lng": -122.63069941816816,
+      "platform": "float",
+      "alt": 97.98
+    },
+    {
+      "site_id": "img_20260428_125027_00_866",
+      "display_name": "Day 1 - Stop 96",
+      "lat": 46.84906317400682,
+      "lng": -122.63096054333764,
+      "platform": "float",
+      "alt": 98.45
+    },
+    {
+      "site_id": "img_20260428_125226_00_867",
+      "display_name": "Day 1 - Stop 97",
+      "lat": 46.849424335952115,
+      "lng": -122.63108763514542,
+      "platform": "float",
+      "alt": 100.03
+    },
+    {
+      "site_id": "img_20260428_125321_00_868",
+      "display_name": "Day 1 - Stop 98",
+      "lat": 46.84976670110193,
+      "lng": -122.63125917190774,
+      "platform": "float",
+      "alt": 99.39
+    },
+    {
+      "site_id": "img_20260428_125425_00_869",
+      "display_name": "Day 1 - Stop 99",
+      "lat": 46.84996089676747,
+      "lng": -122.63160315374506,
+      "platform": "float",
+      "alt": 99.59
+    },
+    {
+      "site_id": "img_20260428_125506_00_870",
+      "display_name": "Day 1 - Stop 100",
+      "lat": 46.85001773055739,
+      "lng": -122.63202204007285,
+      "platform": "float",
+      "alt": 100.2
+    },
+    {
+      "site_id": "img_20260428_125547_00_871",
+      "display_name": "Day 1 - Stop 101",
+      "lat": 46.85008338183678,
+      "lng": -122.63276187401348,
+      "platform": "float",
+      "alt": 99.17
+    },
+    {
+      "site_id": "img_20260428_125614_00_872",
+      "display_name": "Day 1 - Stop 102",
+      "lat": 46.85003737985978,
+      "lng": -122.63320680241995,
+      "platform": "float",
+      "alt": 99.8
+    },
+    {
+      "site_id": "img_20260428_125659_00_873",
+      "display_name": "Day 1 - Stop 103",
+      "lat": 46.849718911590365,
+      "lng": -122.63392675753158,
+      "platform": "float",
+      "alt": 96.86
+    },
+    {
+      "site_id": "img_20260428_125733_00_874",
+      "display_name": "Day 1 - Stop 104",
+      "lat": 46.849414939224296,
+      "lng": -122.63424575337312,
+      "platform": "float",
+      "alt": 96.94
+    },
+    {
+      "site_id": "img_20260428_125803_00_875",
+      "display_name": "Day 1 - Stop 105",
+      "lat": 46.84923441734418,
+      "lng": -122.63456660858276,
+      "platform": "float",
+      "alt": 95.14
+    },
+    {
+      "site_id": "img_20260428_125913_00_876",
+      "display_name": "Day 1 - Stop 106",
+      "lat": 46.84883550119718,
+      "lng": -122.63524692895086,
+      "platform": "float",
+      "alt": 96.62
+    },
+    {
+      "site_id": "img_20260428_125940_00_877",
+      "display_name": "Day 1 - Stop 107",
+      "lat": 46.84852825778446,
+      "lng": -122.63556226111447,
+      "platform": "float",
+      "alt": 97.94
+    },
+    {
+      "site_id": "img_20260428_130013_00_878",
+      "display_name": "Day 1 - Stop 108",
+      "lat": 46.84840973239972,
+      "lng": -122.63587430078115,
+      "platform": "float",
+      "alt": 96.87
+    },
+    {
+      "site_id": "img_20260428_130250_00_879",
+      "display_name": "Day 1 - Stop 109",
+      "lat": 46.8481996493535,
+      "lng": -122.63614040434827,
+      "platform": "float",
+      "alt": 95.81
+    },
+    {
+      "site_id": "img_20260428_130327_00_880",
+      "display_name": "Day 1 - Stop 110",
+      "lat": 46.848020945702984,
+      "lng": -122.63660567495296,
+      "platform": "float",
+      "alt": 95.73
+    },
+    {
+      "site_id": "img_20260428_130413_00_881",
+      "display_name": "Day 1 - Stop 111",
+      "lat": 46.847939104748924,
+      "lng": -122.63744767115601,
+      "platform": "float",
+      "alt": 99.44
+    },
+    {
+      "site_id": "img_20260428_130500_00_882",
+      "display_name": "Day 1 - Stop 112",
+      "lat": 46.8479558027307,
+      "lng": -122.63798985979908,
+      "platform": "float",
+      "alt": 95.61
+    },
+    {
+      "site_id": "img_20260428_130547_00_883",
+      "display_name": "Day 1 - Stop 113",
+      "lat": 46.84805676576115,
+      "lng": -122.63858828828829,
+      "platform": "float",
+      "alt": 95.64
+    },
+    {
+      "site_id": "img_20260428_130657_00_884",
+      "display_name": "Day 1 - Stop 114",
+      "lat": 46.848204354820176,
+      "lng": -122.63910215623896,
+      "platform": "float",
+      "alt": 95.47
+    },
+    {
+      "site_id": "img_20260428_130751_00_885",
+      "display_name": "Day 1 - Stop 115",
+      "lat": 46.84839679691654,
+      "lng": -122.63974134887006,
+      "platform": "float",
+      "alt": 95.15
+    },
+    {
+      "site_id": "img_20260428_130849_00_886",
+      "display_name": "Day 1 - Stop 116",
+      "lat": 46.84829528208272,
+      "lng": -122.63990466326749,
+      "platform": "float",
+      "alt": 97.75
+    },
+    {
+      "site_id": "img_20260428_130959_00_887",
+      "display_name": "Day 1 - Stop 117",
+      "lat": 46.84848793121863,
+      "lng": -122.64048626563815,
+      "platform": "float",
+      "alt": 94.89
+    },
+    {
+      "site_id": "img_20260428_131032_00_888",
+      "display_name": "Day 1 - Stop 118",
+      "lat": 46.84859363623125,
+      "lng": -122.64097793650794,
+      "platform": "float",
+      "alt": 94.85
+    },
+    {
+      "site_id": "img_20260428_131153_00_889",
+      "display_name": "Day 1 - Stop 119",
+      "lat": 46.8485288644231,
+      "lng": -122.64179307384087,
+      "platform": "float",
+      "alt": 94.91
+    },
+    {
+      "site_id": "img_20260428_131241_00_890",
+      "display_name": "Day 1 - Stop 120",
+      "lat": 46.84841596576656,
+      "lng": -122.64204335366982,
+      "platform": "float",
+      "alt": 94.74
+    },
+    {
+      "site_id": "img_20260428_131314_00_891",
+      "display_name": "Day 1 - Stop 121",
+      "lat": 46.848216683973696,
+      "lng": -122.64247728823932,
+      "platform": "float",
+      "alt": 93.38
+    },
+    {
+      "site_id": "img_20260428_131350_00_892",
+      "display_name": "Day 1 - Stop 122",
+      "lat": 46.84798166912955,
+      "lng": -122.64287172132852,
+      "platform": "float",
+      "alt": 94.48
+    },
+    {
+      "site_id": "img_20260428_131426_00_893",
+      "display_name": "Day 1 - Stop 123",
+      "lat": 46.84781157069479,
+      "lng": -122.64308413643236,
+      "platform": "float",
+      "alt": 94.38
+    },
+    {
+      "site_id": "img_20260428_131503_00_894",
+      "display_name": "Day 1 - Stop 124",
+      "lat": 46.847529495834095,
+      "lng": -122.64354839377381,
+      "platform": "float",
+      "alt": 93.85
+    },
+    {
+      "site_id": "img_20260428_131553_00_895",
+      "display_name": "Day 1 - Stop 125",
+      "lat": 46.84736216283098,
+      "lng": -122.64391609123248,
+      "platform": "float",
+      "alt": 94.99
+    },
+    {
+      "site_id": "img_20260428_132256_00_896",
+      "display_name": "Day 1 - Stop 126",
+      "lat": 46.84728845205383,
+      "lng": -122.64424349830601,
+      "platform": "float",
+      "alt": 93.96
+    },
+    {
+      "site_id": "img_20260428_132342_00_897",
+      "display_name": "Day 1 - Stop 127",
+      "lat": 46.84721490800338,
+      "lng": -122.644732964672,
+      "platform": "float",
+      "alt": 91.57
+    },
+    {
+      "site_id": "img_20260428_132429_00_898",
+      "display_name": "Day 1 - Stop 128",
+      "lat": 46.84721507352941,
+      "lng": -122.6452888979666,
+      "platform": "float",
+      "alt": 93.86
+    },
+    {
+      "site_id": "img_20260428_132613_00_899",
+      "display_name": "Day 1 - Stop 129",
+      "lat": 46.8472826986755,
+      "lng": -122.64615831144609,
+      "platform": "float",
+      "alt": 93.75
+    },
+    {
+      "site_id": "img_20260428_132656_00_900",
+      "display_name": "Day 1 - Stop 130",
+      "lat": 46.84744704621978,
+      "lng": -122.64674240286011,
+      "platform": "float",
+      "alt": 97.0
+    },
+    {
+      "site_id": "img_20260428_132813_00_901",
+      "display_name": "Day 1 - Stop 131",
+      "lat": 46.84754810298103,
+      "lng": -122.64771367690523,
+      "platform": "float",
+      "alt": 95.04
+    },
+    {
+      "site_id": "img_20260428_132907_00_902",
+      "display_name": "Day 1 - Stop 132",
+      "lat": 46.847806524936495,
+      "lng": -122.64857424732425,
+      "platform": "float",
+      "alt": 95.2
+    },
+    {
+      "site_id": "img_20260428_132947_00_903",
+      "display_name": "Day 1 - Stop 133",
+      "lat": 46.84797996031746,
+      "lng": -122.64914746626472,
+      "platform": "float",
+      "alt": 93.24
+    },
+    {
+      "site_id": "img_20260428_133058_00_904",
+      "display_name": "Day 1 - Stop 134",
+      "lat": 46.8482788970289,
+      "lng": -122.65028603404122,
+      "platform": "float",
+      "alt": 94.83
+    },
+    {
+      "site_id": "img_20260428_133158_00_905",
+      "display_name": "Day 1 - Stop 135",
+      "lat": 46.84852717747217,
+      "lng": -122.65067220620226,
+      "platform": "float",
+      "alt": 102.07
+    },
+    {
+      "site_id": "img_20260428_133338_00_906",
+      "display_name": "Day 1 - Stop 136",
+      "lat": 46.848778763113664,
+      "lng": -122.65106156953318,
+      "platform": "float",
+      "alt": 92.8
+    },
+    {
+      "site_id": "img_20260428_133443_00_907",
+      "display_name": "Day 1 - Stop 137",
+      "lat": 46.84922486241262,
+      "lng": -122.65177412008282,
+      "platform": "float",
+      "alt": 102.4
+    },
+    {
+      "site_id": "img_20260428_133542_00_908",
+      "display_name": "Day 1 - Stop 138",
+      "lat": 46.84925463967221,
+      "lng": -122.65239397432421,
+      "platform": "float",
+      "alt": 90.65
+    },
+    {
+      "site_id": "img_20260428_133626_00_909",
+      "display_name": "Day 1 - Stop 139",
+      "lat": 46.849253303667744,
+      "lng": -122.65280107159143,
+      "platform": "float",
+      "alt": 92.87
+    },
+    {
+      "site_id": "img_20260428_133707_00_910",
+      "display_name": "Day 1 - Stop 140",
+      "lat": 46.84914004132889,
+      "lng": -122.6534396106961,
+      "platform": "float",
+      "alt": 92.52
+    },
+    {
+      "site_id": "img_20260428_133838_00_911",
+      "display_name": "Day 1 - Stop 141",
+      "lat": 46.84926886921353,
+      "lng": -122.65405898517383,
+      "platform": "float",
+      "alt": 89.12
+    },
+    {
+      "site_id": "img_20260428_133926_00_912",
+      "display_name": "Day 1 - Stop 142",
+      "lat": 46.84940222537879,
+      "lng": -122.65463751563605,
+      "platform": "float",
+      "alt": 91.87
+    },
+    {
+      "site_id": "img_20260428_134043_00_913",
+      "display_name": "Day 1 - Stop 143",
+      "lat": 46.84951702877276,
+      "lng": -122.65536064857643,
+      "platform": "float",
+      "alt": 91.69
+    },
+    {
+      "site_id": "img_20260428_134157_00_914",
+      "display_name": "Day 1 - Stop 144",
+      "lat": 46.84956763900689,
+      "lng": -122.65578482190325,
+      "platform": "float",
+      "alt": 91.59
+    },
+    {
+      "site_id": "img_20260428_134254_00_915",
+      "display_name": "Day 1 - Stop 145",
+      "lat": 46.84969481850117,
+      "lng": -122.65620946305157,
+      "platform": "float",
+      "alt": 87.77
+    },
+    {
+      "site_id": "img_20260428_134405_00_916",
+      "display_name": "Day 1 - Stop 146",
+      "lat": 46.85045501613447,
+      "lng": -122.65678633792659,
+      "platform": "float",
+      "alt": 95.35
+    },
+    {
+      "site_id": "img_20260428_134514_00_917",
+      "display_name": "Day 1 - Stop 147",
+      "lat": 46.85106434106079,
+      "lng": -122.65703838183084,
+      "platform": "float",
+      "alt": 92.35
+    },
+    {
+      "site_id": "img_20260428_134818_00_918",
+      "display_name": "Day 1 - Stop 148",
+      "lat": 46.85138155784651,
+      "lng": -122.65769884823848,
+      "platform": "float",
+      "alt": 96.82
+    },
+    {
+      "site_id": "img_20260428_134912_00_919",
+      "display_name": "Day 1 - Stop 149",
+      "lat": 46.85136186063414,
+      "lng": -122.65845158766219,
+      "platform": "float",
+      "alt": 92.03
+    },
+    {
+      "site_id": "img_20260428_134944_00_920",
+      "display_name": "Day 1 - Stop 150",
+      "lat": 46.851263408521305,
+      "lng": -122.65880056096842,
+      "platform": "float",
+      "alt": 89.78
+    },
+    {
+      "site_id": "img_20260428_135053_00_921",
+      "display_name": "Day 1 - Stop 151",
+      "lat": 46.850811990704784,
+      "lng": -122.65978688837922,
+      "platform": "float",
+      "alt": 94.04
+    },
+    {
+      "site_id": "img_20260428_140436_00_922",
+      "display_name": "Day 1 - Stop 152",
+      "lat": 46.85057908649028,
+      "lng": -122.66070027271928,
+      "platform": "float",
+      "alt": 93.53
+    },
+    {
+      "site_id": "img_20260428_140911_00_923",
+      "display_name": "Day 1 - Stop 153",
+      "lat": 46.85042795706246,
+      "lng": -122.66068447383152,
+      "platform": "float",
+      "alt": 91.87
+    },
+    {
+      "site_id": "img_20260428_141359_00_925",
+      "display_name": "Day 1 - Stop 155",
+      "lat": 46.850265765335756,
+      "lng": -122.66141069536154,
+      "platform": "float",
+      "alt": 92.87
+    },
+    {
+      "site_id": "img_20260428_141451_00_926",
+      "display_name": "Day 1 - Stop 156",
+      "lat": 46.85039248314928,
+      "lng": -122.66211554276316,
+      "platform": "float",
+      "alt": 89.13
+    },
+    {
+      "site_id": "img_20260428_141530_00_927",
+      "display_name": "Day 1 - Stop 157",
+      "lat": 46.850562962673344,
+      "lng": -122.66275110444278,
+      "platform": "float",
+      "alt": 88.56
+    },
+    {
+      "site_id": "img_20260428_141618_00_928",
+      "display_name": "Day 1 - Stop 158",
+      "lat": 46.8507245054414,
+      "lng": -122.66312001191957,
+      "platform": "float",
+      "alt": 95.0
+    },
+    {
+      "site_id": "img_20260428_141748_00_929",
+      "display_name": "Day 1 - Stop 159",
+      "lat": 46.85132980850168,
+      "lng": -122.66420165686635,
+      "platform": "float",
+      "alt": 83.77
+    },
+    {
+      "site_id": "img_20260428_141836_00_930",
+      "display_name": "Day 1 - Stop 160",
+      "lat": 46.851564963016855,
+      "lng": -122.66459233290351,
+      "platform": "float",
+      "alt": 94.83
+    },
+    {
+      "site_id": "img_20260428_141925_00_931",
+      "display_name": "Day 1 - Stop 161",
+      "lat": 46.85184688973522,
+      "lng": -122.66539918211814,
+      "platform": "float",
+      "alt": 97.08
+    },
+    {
+      "site_id": "img_20260428_142003_00_932",
+      "display_name": "Day 1 - Stop 162",
+      "lat": 46.85195614253676,
+      "lng": -122.66610071902033,
+      "platform": "float",
+      "alt": 89.65
+    },
+    {
+      "site_id": "img_20260428_142047_00_933",
+      "display_name": "Day 1 - Stop 163",
+      "lat": 46.85202644214513,
+      "lng": -122.66663378331603,
+      "platform": "float",
+      "alt": 87.29
+    },
+    {
+      "site_id": "img_20260428_142117_00_934",
+      "display_name": "Day 1 - Stop 164",
+      "lat": 46.85207941850138,
+      "lng": -122.66717468865595,
+      "platform": "float",
+      "alt": 87.18
+    },
+    {
+      "site_id": "img_20260428_142151_00_935",
+      "display_name": "Day 1 - Stop 165",
+      "lat": 46.85209594818497,
+      "lng": -122.66776235361326,
+      "platform": "float",
+      "alt": 87.59
+    },
+    {
+      "site_id": "img_20260428_142222_00_936",
+      "display_name": "Day 1 - Stop 166",
+      "lat": 46.852104424471364,
+      "lng": -122.66827655739826,
+      "platform": "float",
+      "alt": 86.95
+    },
+    {
+      "site_id": "img_20260428_142324_00_938",
+      "display_name": "Day 1 - Stop 167",
+      "lat": 46.85210435383552,
+      "lng": -122.66901191510938,
+      "platform": "float",
+      "alt": 87.83
+    },
+    {
+      "site_id": "img_20260428_142345_00_939",
+      "display_name": "Day 1 - Stop 168",
+      "lat": 46.85209053237814,
+      "lng": -122.66917541416738,
+      "platform": "float",
+      "alt": 87.87
+    },
+    {
+      "site_id": "img_20260429_092005_00_941",
+      "display_name": "Day 2 - Stop 1",
+      "lat": 46.85201405647341,
+      "lng": -122.66957060992226,
+      "platform": "float",
+      "alt": 89.29
+    },
+    {
+      "site_id": "img_20260429_092037_00_942",
+      "display_name": "Day 2 - Stop 2",
+      "lat": 46.851946980618294,
+      "lng": -122.66998645077993,
+      "platform": "float",
+      "alt": 86.93
+    },
+    {
+      "site_id": "img_20260429_092111_00_943",
+      "display_name": "Day 2 - Stop 3",
+      "lat": 46.851869115344755,
+      "lng": -122.67058062429241,
+      "platform": "float",
+      "alt": 86.76
+    },
+    {
+      "site_id": "img_20260429_092140_00_944",
+      "display_name": "Day 2 - Stop 4",
+      "lat": 46.851781860226104,
+      "lng": -122.67094018500238,
+      "platform": "float",
+      "alt": 86.7
+    },
+    {
+      "site_id": "img_20260429_092240_00_945",
+      "display_name": "Day 2 - Stop 5",
+      "lat": 46.85157109594975,
+      "lng": -122.67163189249099,
+      "platform": "float",
+      "alt": 86.64
+    },
+    {
+      "site_id": "img_20260429_092348_00_946",
+      "display_name": "Day 2 - Stop 6",
+      "lat": 46.8513824530256,
+      "lng": -122.67211206288776,
+      "platform": "float",
+      "alt": 86.62
+    },
+    {
+      "site_id": "img_20260429_092448_00_947",
+      "display_name": "Day 2 - Stop 7",
+      "lat": 46.851217658919666,
+      "lng": -122.6727717209691,
+      "platform": "float",
+      "alt": 86.56
+    },
+    {
+      "site_id": "img_20260429_092535_00_948",
+      "display_name": "Day 2 - Stop 8",
+      "lat": 46.850963135642786,
+      "lng": -122.67328296779955,
+      "platform": "float",
+      "alt": 86.47
+    },
+    {
+      "site_id": "img_20260429_092612_00_949",
+      "display_name": "Day 2 - Stop 9",
+      "lat": 46.85073190979441,
+      "lng": -122.67351533006837,
+      "platform": "float",
+      "alt": 86.41
+    },
+    {
+      "site_id": "img_20260429_092651_00_950",
+      "display_name": "Day 2 - Stop 10",
+      "lat": 46.85045276526527,
+      "lng": -122.67364091737043,
+      "platform": "float",
+      "alt": 88.21
+    },
+    {
+      "site_id": "img_20260429_092733_00_951",
+      "display_name": "Day 2 - Stop 11",
+      "lat": 46.8502005776244,
+      "lng": -122.6739689248234,
+      "platform": "float",
+      "alt": 86.23
+    },
+    {
+      "site_id": "img_20260429_092905_00_952",
+      "display_name": "Day 2 - Stop 12",
+      "lat": 46.849820865577534,
+      "lng": -122.67443409504885,
+      "platform": "float",
+      "alt": 86.03
+    },
+    {
+      "site_id": "img_20260429_092950_00_953",
+      "display_name": "Day 2 - Stop 13",
+      "lat": 46.84943395365809,
+      "lng": -122.67489614379086,
+      "platform": "float",
+      "alt": 85.63
+    },
+    {
+      "site_id": "img_20260429_093021_00_954",
+      "display_name": "Day 2 - Stop 14",
+      "lat": 46.84923870017491,
+      "lng": -122.67537639418326,
+      "platform": "float",
+      "alt": 85.59
+    },
+    {
+      "site_id": "img_20260429_093108_00_955",
+      "display_name": "Day 2 - Stop 15",
+      "lat": 46.84906856333116,
+      "lng": -122.67570382827988,
+      "platform": "float",
+      "alt": 85.49
+    },
+    {
+      "site_id": "img_20260429_093156_00_956",
+      "display_name": "Day 2 - Stop 16",
+      "lat": 46.848814778216955,
+      "lng": -122.67634470726844,
+      "platform": "float",
+      "alt": 85.33
+    },
+    {
+      "site_id": "img_20260429_093244_00_957",
+      "display_name": "Day 2 - Stop 17",
+      "lat": 46.84859024833435,
+      "lng": -122.67674925856956,
+      "platform": "float",
+      "alt": 85.34
+    },
+    {
+      "site_id": "img_20260429_093339_00_958",
+      "display_name": "Day 2 - Stop 18",
+      "lat": 46.848288267644364,
+      "lng": -122.67731001206273,
+      "platform": "float",
+      "alt": 84.91
+    },
+    {
+      "site_id": "img_20260429_093437_00_959",
+      "display_name": "Day 2 - Stop 19",
+      "lat": 46.848058811558815,
+      "lng": -122.67803177387914,
+      "platform": "float",
+      "alt": 84.8
+    },
+    {
+      "site_id": "img_20260429_093514_00_960",
+      "display_name": "Day 2 - Stop 20",
+      "lat": 46.84800024473813,
+      "lng": -122.67834535947713,
+      "platform": "float",
+      "alt": 84.82
+    },
+    {
+      "site_id": "img_20260429_093917_00_961",
+      "display_name": "Day 2 - Stop 21",
+      "lat": 46.84792704287564,
+      "lng": -122.67882876690685,
+      "platform": "float",
+      "alt": 84.85
+    },
+    {
+      "site_id": "img_20260429_094305_00_963",
+      "display_name": "Day 2 - Stop 22",
+      "lat": 46.84802373045524,
+      "lng": -122.68013644214163,
+      "platform": "float",
+      "alt": 84.49
+    },
+    {
+      "site_id": "img_20260429_094431_00_965",
+      "display_name": "Day 2 - Stop 24",
+      "lat": 46.84797856464523,
+      "lng": -122.68074336748096,
+      "platform": "float",
+      "alt": 84.54
+    },
+    {
+      "site_id": "img_20260429_094529_00_966",
+      "display_name": "Day 2 - Stop 25",
+      "lat": 46.84788822288822,
+      "lng": -122.6811850614928,
+      "platform": "float",
+      "alt": 84.51
+    },
+    {
+      "site_id": "img_20260429_094641_00_967",
+      "display_name": "Day 2 - Stop 26",
+      "lat": 46.847834246636374,
+      "lng": -122.68183400673401,
+      "platform": "float",
+      "alt": 84.41
+    },
+    {
+      "site_id": "img_20260429_094804_00_968",
+      "display_name": "Day 2 - Stop 27",
+      "lat": 46.8478111856466,
+      "lng": -122.68252348784844,
+      "platform": "float",
+      "alt": 84.43
+    },
+    {
+      "site_id": "img_20260429_094851_00_969",
+      "display_name": "Day 2 - Stop 28",
+      "lat": 46.847850224701695,
+      "lng": -122.68296616450374,
+      "platform": "float",
+      "alt": 84.39
+    },
+    {
+      "site_id": "img_20260429_094927_00_970",
+      "display_name": "Day 2 - Stop 29",
+      "lat": 46.847863012300316,
+      "lng": -122.68358363453815,
+      "platform": "float",
+      "alt": 84.11
+    },
+    {
+      "site_id": "img_20260429_095015_00_971",
+      "display_name": "Day 2 - Stop 30",
+      "lat": 46.84783948308818,
+      "lng": -122.6841461513397,
+      "platform": "float",
+      "alt": 84.11
+    },
+    {
+      "site_id": "img_20260429_095152_00_972",
+      "display_name": "Day 2 - Stop 31",
+      "lat": 46.847947513105744,
+      "lng": -122.68457373635033,
+      "platform": "float",
+      "alt": 84.0
+    },
+    {
+      "site_id": "img_20260429_095309_00_973",
+      "display_name": "Day 2 - Stop 32",
+      "lat": 46.84840012514964,
+      "lng": -122.68504911901222,
+      "platform": "float",
+      "alt": 83.93
+    },
+    {
+      "site_id": "img_20260429_095408_00_974",
+      "display_name": "Day 2 - Stop 33",
+      "lat": 46.84879745148219,
+      "lng": -122.68514510892652,
+      "platform": "float",
+      "alt": 83.81
+    },
+    {
+      "site_id": "img_20260429_095456_00_975",
+      "display_name": "Day 2 - Stop 34",
+      "lat": 46.849162176240256,
+      "lng": -122.68546152307816,
+      "platform": "float",
+      "alt": 83.85
+    },
+    {
+      "site_id": "img_20260429_095548_00_976",
+      "display_name": "Day 2 - Stop 35",
+      "lat": 46.849357457666436,
+      "lng": -122.68591055738605,
+      "platform": "float",
+      "alt": 83.82
+    },
+    {
+      "site_id": "img_20260429_095638_00_977",
+      "display_name": "Day 2 - Stop 36",
+      "lat": 46.84942450752842,
+      "lng": -122.68647729874431,
+      "platform": "float",
+      "alt": 83.52
+    },
+    {
+      "site_id": "img_20260429_095923_00_978",
+      "display_name": "Day 2 - Stop 37",
+      "lat": 46.84897111857241,
+      "lng": -122.68669143511795,
+      "platform": "float",
+      "alt": 83.3
+    },
+    {
+      "site_id": "img_20260429_100020_00_979",
+      "display_name": "Day 2 - Stop 38",
+      "lat": 46.8486137415825,
+      "lng": -122.68700971433545,
+      "platform": "float",
+      "alt": 83.23
+    },
+    {
+      "site_id": "img_20260429_100108_00_980",
+      "display_name": "Day 2 - Stop 39",
+      "lat": 46.84826150627615,
+      "lng": -122.68746154770488,
+      "platform": "float",
+      "alt": 83.12
+    },
+    {
+      "site_id": "img_20260429_100208_00_981",
+      "display_name": "Day 2 - Stop 40",
+      "lat": 46.84810108752621,
+      "lng": -122.68786980063993,
+      "platform": "float",
+      "alt": 83.14
+    },
+    {
+      "site_id": "img_20260429_100530_00_982",
+      "display_name": "Day 2 - Stop 41",
+      "lat": 46.847903554778554,
+      "lng": -122.68864213358658,
+      "platform": "float",
+      "alt": 83.05
+    },
+    {
+      "site_id": "img_20260429_100607_00_983",
+      "display_name": "Day 2 - Stop 42",
+      "lat": 46.84789126322991,
+      "lng": -122.6892892929293,
+      "platform": "float",
+      "alt": 82.94
+    },
+    {
+      "site_id": "img_20260429_100744_00_984",
+      "display_name": "Day 2 - Stop 43",
+      "lat": 46.848220444176064,
+      "lng": -122.69009257505944,
+      "platform": "float",
+      "alt": 83.0
+    },
+    {
+      "site_id": "img_20260429_100848_00_985",
+      "display_name": "Day 2 - Stop 44",
+      "lat": 46.848725336645785,
+      "lng": -122.69060155535225,
+      "platform": "float",
+      "alt": 82.42
+    },
+    {
+      "site_id": "img_20260429_101044_00_986",
+      "display_name": "Day 2 - Stop 45",
+      "lat": 46.8492319269855,
+      "lng": -122.69154967842094,
+      "platform": "float",
+      "alt": 82.37
+    },
+    {
+      "site_id": "img_20260429_101201_00_987",
+      "display_name": "Day 2 - Stop 46",
+      "lat": 46.849641089108914,
+      "lng": -122.69227821240477,
+      "platform": "float",
+      "alt": 82.22
+    },
+    {
+      "site_id": "img_20260429_101308_00_988",
+      "display_name": "Day 2 - Stop 47",
+      "lat": 46.85022688168835,
+      "lng": -122.69287903334684,
+      "platform": "float",
+      "alt": 82.0
+    },
+    {
+      "site_id": "img_20260429_101344_00_989",
+      "display_name": "Day 2 - Stop 48",
+      "lat": 46.85055173495488,
+      "lng": -122.69333093722189,
+      "platform": "float",
+      "alt": 81.82
+    },
+    {
+      "site_id": "img_20260429_101505_00_990",
+      "display_name": "Day 2 - Stop 49",
+      "lat": 46.85108821513468,
+      "lng": -122.69431953405018,
+      "platform": "float",
+      "alt": 81.72
+    },
+    {
+      "site_id": "img_20260429_101626_00_991",
+      "display_name": "Day 2 - Stop 50",
+      "lat": 46.85154710116782,
+      "lng": -122.69476968747962,
+      "platform": "float",
+      "alt": 81.7
+    },
+    {
+      "site_id": "img_20260429_101741_00_992",
+      "display_name": "Day 2 - Stop 51",
+      "lat": 46.85192640954339,
+      "lng": -122.69503938327468,
+      "platform": "float",
+      "alt": 81.68
+    },
+    {
+      "site_id": "img_20260429_101935_00_993",
+      "display_name": "Day 2 - Stop 52",
+      "lat": 46.85244033006001,
+      "lng": -122.69536006166649,
+      "platform": "float",
+      "alt": 81.68
+    },
+    {
+      "site_id": "img_20260429_102155_00_994",
+      "display_name": "Day 2 - Stop 53",
+      "lat": 46.85311886374521,
+      "lng": -122.69619715338841,
+      "platform": "float",
+      "alt": 81.68
+    },
+    {
+      "site_id": "img_20260429_102318_00_995",
+      "display_name": "Day 2 - Stop 54",
+      "lat": 46.85367460712705,
+      "lng": -122.69709311294766,
+      "platform": "float",
+      "alt": 81.66
+    },
+    {
+      "site_id": "img_20260429_102432_00_996",
+      "display_name": "Day 2 - Stop 55",
+      "lat": 46.85381662173372,
+      "lng": -122.69761268501775,
+      "platform": "float",
+      "alt": 81.58
+    },
+    {
+      "site_id": "img_20260429_102444_00_997",
+      "display_name": "Day 2 - Stop 56",
+      "lat": 46.85383229669121,
+      "lng": -122.6977831404731,
+      "platform": "float",
+      "alt": 81.59
+    },
+    {
+      "site_id": "img_20260429_102516_00_998",
+      "display_name": "Day 2 - Stop 57",
+      "lat": 46.85364770654157,
+      "lng": -122.69807750945238,
+      "platform": "float",
+      "alt": 81.4
+    },
+    {
+      "site_id": "img_20260429_102751_00_999",
+      "display_name": "Day 2 - Stop 58",
+      "lat": 46.85339172247982,
+      "lng": -122.69882817365003,
+      "platform": "float",
+      "alt": 81.04
+    },
+    {
+      "site_id": "img_20260429_102842_00_001",
+      "display_name": "Day 2 - Stop 59",
+      "lat": 46.85363357391859,
+      "lng": -122.69927741466958,
+      "platform": "float",
+      "alt": 80.93
+    },
+    {
+      "site_id": "img_20260429_102914_00_002",
+      "display_name": "Day 2 - Stop 60",
+      "lat": 46.853919759093465,
+      "lng": -122.69952384771682,
+      "platform": "float",
+      "alt": 80.58
+    },
+    {
+      "site_id": "img_20260429_103212_00_003",
+      "display_name": "Day 2 - Stop 61",
+      "lat": 46.853961381786995,
+      "lng": -122.6992016306612,
+      "alt": 81.04
+    },
+    {
+      "site_id": "img_20260429_103325_00_004",
+      "display_name": "Day 2 - Stop 62",
+      "lat": 46.853963041431264,
+      "lng": -122.69872517493832,
+      "alt": 81.89
+    },
+    {
+      "site_id": "img_20260429_103434_00_005",
+      "display_name": "Day 2 - Stop 63",
+      "lat": 46.85419233590026,
+      "lng": -122.69824654872002,
+      "alt": 83.41
+    },
+    {
+      "site_id": "img_20260429_103521_00_006",
+      "display_name": "Day 2 - Stop 64",
+      "lat": 46.854168275254835,
+      "lng": -122.69789386539387,
+      "alt": 82.9
+    },
+    {
+      "site_id": "img_20260429_103615_00_007",
+      "display_name": "Day 2 - Stop 65",
+      "lat": 46.85411556901337,
+      "lng": -122.69766582681106,
+      "alt": 82.04
+    },
+    {
+      "site_id": "img_20260429_104524_00_008",
+      "display_name": "Day 2 - Stop 66",
+      "lat": 46.85411961670973,
+      "lng": -122.7000915846327,
+      "platform": "float",
+      "alt": 80.47
+    },
+    {
+      "site_id": "img_20260429_104550_00_009",
+      "display_name": "Day 2 - Stop 67",
+      "lat": 46.854316866074875,
+      "lng": -122.70041522505016,
+      "platform": "float",
+      "alt": 80.47
+    },
+    {
+      "site_id": "img_20260429_104622_00_010",
+      "display_name": "Day 2 - Stop 68",
+      "lat": 46.85461037066954,
+      "lng": -122.7005769373172,
+      "platform": "float",
+      "alt": 80.46
+    },
+    {
+      "site_id": "img_20260429_104725_00_011",
+      "display_name": "Day 2 - Stop 69",
+      "lat": 46.85516135571232,
+      "lng": -122.70043901490165,
+      "platform": "float",
+      "alt": 80.32
+    },
+    {
+      "site_id": "img_20260429_104807_00_012",
+      "display_name": "Day 2 - Stop 70",
+      "lat": 46.8554120848373,
+      "lng": -122.70075385563582,
+      "platform": "float",
+      "alt": 80.29
+    },
+    {
+      "site_id": "img_20260429_104956_00_013",
+      "display_name": "Day 2 - Stop 71",
+      "lat": 46.85562,
+      "lng": -122.70093330745651,
+      "platform": "float",
+      "alt": 80.27
+    },
+    {
+      "site_id": "img_20260429_105036_00_014",
+      "display_name": "Day 2 - Stop 72",
+      "lat": 46.85552190114293,
+      "lng": -122.70149065842843,
+      "platform": "float",
+      "alt": 79.89
+    },
+    {
+      "site_id": "img_20260429_105109_00_015",
+      "display_name": "Day 2 - Stop 73",
+      "lat": 46.855651432268694,
+      "lng": -122.70189805670279,
+      "platform": "float",
+      "alt": 80.78
+    },
+    {
+      "site_id": "img_20260429_105141_00_016",
+      "display_name": "Day 2 - Stop 74",
+      "lat": 46.85610233610234,
+      "lng": -122.70223133946831,
+      "platform": "float",
+      "alt": 79.75
+    },
+    {
+      "site_id": "img_20260429_105318_00_017",
+      "display_name": "Day 2 - Stop 75",
+      "lat": 46.85676740551293,
+      "lng": -122.70281942730472,
+      "platform": "float",
+      "alt": 79.66
+    },
+    {
+      "site_id": "img_20260429_105406_00_018",
+      "display_name": "Day 2 - Stop 76",
+      "lat": 46.857116373247976,
+      "lng": -122.70286442433168,
+      "platform": "float",
+      "alt": 79.6
+    },
+    {
+      "site_id": "img_20260429_105520_00_019",
+      "display_name": "Day 2 - Stop 77",
+      "lat": 46.85755733298652,
+      "lng": -122.7030094162757,
+      "platform": "float",
+      "alt": 79.61
+    },
+    {
+      "site_id": "img_20260429_105558_00_020",
+      "display_name": "Day 2 - Stop 78",
+      "lat": 46.857963164032654,
+      "lng": -122.70286097245332,
+      "platform": "float",
+      "alt": 79.36
+    },
+    {
+      "site_id": "img_20260429_105725_00_021",
+      "display_name": "Day 2 - Stop 79",
+      "lat": 46.8582702228076,
+      "lng": -122.7025493116564,
+      "platform": "float",
+      "alt": 79.25
+    },
+    {
+      "site_id": "img_20260429_105822_00_022",
+      "display_name": "Day 2 - Stop 80",
+      "lat": 46.8585714570381,
+      "lng": -122.7026852675263,
+      "platform": "float",
+      "alt": 79.19
+    },
+    {
+      "site_id": "img_20260429_110117_00_023",
+      "display_name": "Day 2 - Stop 81",
+      "lat": 46.85871947911015,
+      "lng": -122.7030210423235,
+      "platform": "float",
+      "alt": 79.16
+    },
+    {
+      "site_id": "img_20260429_110234_00_024",
+      "display_name": "Day 2 - Stop 82",
+      "lat": 46.85870785300644,
+      "lng": -122.70338298691301,
+      "platform": "float",
+      "alt": 78.97
+    },
+    {
+      "site_id": "img_20260429_110347_00_025",
+      "display_name": "Day 2 - Stop 83",
+      "lat": 46.85845516472355,
+      "lng": -122.70427785872884,
+      "platform": "float",
+      "alt": 78.78
+    },
+    {
+      "site_id": "img_20260429_110448_00_026",
+      "display_name": "Day 2 - Stop 84",
+      "lat": 46.85863798843047,
+      "lng": -122.70470037401174,
+      "platform": "float",
+      "alt": 78.74
+    },
+    {
+      "site_id": "img_20260429_110554_00_027",
+      "display_name": "Day 2 - Stop 85",
+      "lat": 46.85899350616381,
+      "lng": -122.70522790320202,
+      "platform": "float",
+      "alt": 78.68
+    },
+    {
+      "site_id": "img_20260429_110730_00_028",
+      "display_name": "Day 2 - Stop 86",
+      "lat": 46.859288406573775,
+      "lng": -122.70559764100008,
+      "platform": "float",
+      "alt": 78.61
+    },
+    {
+      "site_id": "img_20260429_110823_00_029",
+      "display_name": "Day 2 - Stop 87",
+      "lat": 46.85947188162277,
+      "lng": -122.7061163051608,
+      "platform": "float",
+      "alt": 78.59
+    },
+    {
+      "site_id": "img_20260429_110938_00_030",
+      "display_name": "Day 2 - Stop 88",
+      "lat": 46.85921904842153,
+      "lng": -122.70674103624901,
+      "platform": "float",
+      "alt": 78.57
+    },
+    {
+      "site_id": "img_20260429_111038_00_031",
+      "display_name": "Day 2 - Stop 89",
+      "lat": 46.858836153815595,
+      "lng": -122.70721780954902,
+      "platform": "float",
+      "alt": 78.56
+    },
+    {
+      "site_id": "img_20260429_111210_00_032",
+      "display_name": "Day 2 - Stop 90",
+      "lat": 46.858787444068724,
+      "lng": -122.70773488830487,
+      "platform": "float",
+      "alt": 78.52
+    },
+    {
+      "site_id": "img_20260429_111251_00_033",
+      "display_name": "Day 2 - Stop 91",
+      "lat": 46.85878124923334,
+      "lng": -122.70838371940846,
+      "platform": "float",
+      "alt": 78.27
+    },
+    {
+      "site_id": "img_20260429_111440_00_034",
+      "display_name": "Day 2 - Stop 92",
+      "lat": 46.85838435533122,
+      "lng": -122.7098096021948,
+      "platform": "float",
+      "alt": 77.86
+    },
+    {
+      "site_id": "img_20260429_111644_00_035",
+      "display_name": "Day 2 - Stop 93",
+      "lat": 46.858906642994526,
+      "lng": -122.71085557421924,
+      "platform": "float",
+      "alt": 77.62
+    },
+    {
+      "site_id": "img_20260429_111745_00_036",
+      "display_name": "Day 2 - Stop 94",
+      "lat": 46.85945534647551,
+      "lng": -122.7117134512873,
+      "platform": "float",
+      "alt": 77.58
+    },
+    {
+      "site_id": "img_20260429_111831_00_037",
+      "display_name": "Day 2 - Stop 95",
+      "lat": 46.8596343119744,
+      "lng": -122.71222065947805,
+      "platform": "float",
+      "alt": 77.61
+    },
+    {
+      "site_id": "img_20260429_111911_00_038",
+      "display_name": "Day 2 - Stop 96",
+      "lat": 46.85961815205979,
+      "lng": -122.71302661137031,
+      "platform": "float",
+      "alt": 77.21
+    },
+    {
+      "site_id": "img_20260429_111953_00_039",
+      "display_name": "Day 2 - Stop 97",
+      "lat": 46.85954407737575,
+      "lng": -122.71392518692402,
+      "platform": "float",
+      "alt": 77.14
+    },
+    {
+      "site_id": "img_20260429_112046_00_040",
+      "display_name": "Day 2 - Stop 98",
+      "lat": 46.859397249514075,
+      "lng": -122.71461623022905,
+      "platform": "float",
+      "alt": 76.98
+    },
+    {
+      "site_id": "img_20260429_112307_00_041",
+      "display_name": "Day 2 - Stop 99",
+      "lat": 46.85983530225628,
+      "lng": -122.71511385281386,
+      "platform": "float",
+      "alt": 77.07
+    },
+    {
+      "site_id": "img_20260429_112433_00_042",
+      "display_name": "Day 2 - Stop 100",
+      "lat": 46.8601897137312,
+      "lng": -122.71549191627186,
+      "platform": "float",
+      "alt": 76.81
+    },
+    {
+      "site_id": "img_20260429_112517_00_043",
+      "display_name": "Day 2 - Stop 101",
+      "lat": 46.86035986783841,
+      "lng": -122.71583721746103,
+      "platform": "float",
+      "alt": 76.89
+    },
+    {
+      "site_id": "img_20260429_112557_00_044",
+      "display_name": "Day 2 - Stop 102",
+      "lat": 46.86062305343203,
+      "lng": -122.71633690845799,
+      "platform": "float",
+      "alt": 76.56
+    },
+    {
+      "site_id": "img_20260429_112627_00_045",
+      "display_name": "Day 2 - Stop 103",
+      "lat": 46.86082895760405,
+      "lng": -122.71697687906347,
+      "platform": "float",
+      "alt": 76.41
+    },
+    {
+      "site_id": "img_20260429_112713_00_046",
+      "display_name": "Day 2 - Stop 104",
+      "lat": 46.86074438443073,
+      "lng": -122.71752917812405,
+      "platform": "float",
+      "alt": 76.36
+    },
+    {
+      "site_id": "img_20260429_112809_00_047",
+      "display_name": "Day 2 - Stop 105",
+      "lat": 46.86033656752509,
+      "lng": -122.71792012076553,
+      "platform": "float",
+      "alt": 76.19
+    },
+    {
+      "site_id": "img_20260429_113012_00_048",
+      "display_name": "Day 2 - Stop 106",
+      "lat": 46.86054296154392,
+      "lng": -122.71889696841957,
+      "platform": "float",
+      "alt": 76.02
+    },
+    {
+      "site_id": "img_20260429_113122_00_049",
+      "display_name": "Day 2 - Stop 107",
+      "lat": 46.86076970996732,
+      "lng": -122.71946417301946,
+      "platform": "float",
+      "alt": 75.93
+    },
+    {
+      "site_id": "img_20260429_113208_00_050",
+      "display_name": "Day 2 - Stop 108",
+      "lat": 46.860990147529144,
+      "lng": -122.7200565487633,
+      "platform": "float",
+      "alt": 75.9
+    },
+    {
+      "site_id": "img_20260429_113253_00_051",
+      "display_name": "Day 2 - Stop 109",
+      "lat": 46.861297843473295,
+      "lng": -122.72040289105206,
+      "platform": "float",
+      "alt": 75.92
+    },
+    {
+      "site_id": "img_20260429_113326_00_052",
+      "display_name": "Day 2 - Stop 110",
+      "lat": 46.86165733230334,
+      "lng": -122.72062114366224,
+      "platform": "float",
+      "alt": 75.82
+    },
+    {
+      "site_id": "img_20260429_113511_00_053",
+      "display_name": "Day 2 - Stop 111",
+      "lat": 46.86215112790977,
+      "lng": -122.7209414518776,
+      "platform": "float",
+      "alt": 75.76
+    },
+    {
+      "site_id": "img_20260429_113555_00_054",
+      "display_name": "Day 2 - Stop 112",
+      "lat": 46.86210416452794,
+      "lng": -122.72144460880999,
+      "platform": "float",
+      "alt": 75.62
+    },
+    {
+      "site_id": "img_20260429_113711_00_055",
+      "display_name": "Day 2 - Stop 113",
+      "lat": 46.861872964997964,
+      "lng": -122.72223705398763,
+      "platform": "float",
+      "alt": 75.57
+    },
+    {
+      "site_id": "img_20260429_113755_00_056",
+      "display_name": "Day 2 - Stop 114",
+      "lat": 46.86179691596358,
+      "lng": -122.72285500465374,
+      "platform": "float",
+      "alt": 75.37
+    },
+    {
+      "site_id": "img_20260429_113809_00_057",
+      "display_name": "Day 2 - Stop 115",
+      "lat": 46.8617933326879,
+      "lng": -122.72313716942749,
+      "platform": "float",
+      "alt": 75.36
+    },
+    {
+      "site_id": "img_20260429_113945_00_058",
+      "display_name": "Day 2 - Stop 116",
+      "lat": 46.862197258932945,
+      "lng": -122.7239128901629,
+      "platform": "float",
+      "alt": 75.28
+    },
+    {
+      "site_id": "img_20260429_114046_00_059",
+      "display_name": "Day 2 - Stop 117",
+      "lat": 46.862557339449545,
+      "lng": -122.72458219440848,
+      "platform": "float",
+      "alt": 75.26
+    },
+    {
+      "site_id": "img_20260429_114219_00_060",
+      "display_name": "Day 2 - Stop 118",
+      "lat": 46.86315791425605,
+      "lng": -122.72524628139479,
+      "platform": "float",
+      "alt": 75.3
+    },
+    {
+      "site_id": "img_20260429_114305_00_061",
+      "display_name": "Day 2 - Stop 119",
+      "lat": 46.86350603813056,
+      "lng": -122.72530323621078,
+      "platform": "float",
+      "alt": 75.13
+    },
+    {
+      "site_id": "img_20260429_114432_00_062",
+      "display_name": "Day 2 - Stop 120",
+      "lat": 46.86374536504283,
+      "lng": -122.72540849304772,
+      "platform": "float",
+      "alt": 74.86
+    },
+    {
+      "site_id": "img_20260429_114551_00_063",
+      "display_name": "Day 2 - Stop 121",
+      "lat": 46.86420286643026,
+      "lng": -122.72510063863919,
+      "platform": "float",
+      "alt": 74.79
+    },
+    {
+      "site_id": "img_20260429_114633_00_064",
+      "display_name": "Day 2 - Stop 122",
+      "lat": 46.86454714498227,
+      "lng": -122.72509937219064,
+      "platform": "float",
+      "alt": 74.81
+    },
+    {
+      "site_id": "img_20260429_114736_00_065",
+      "display_name": "Day 2 - Stop 123",
+      "lat": 46.8649698934692,
+      "lng": -122.72561679939325,
+      "platform": "float",
+      "alt": 74.5
+    },
+    {
+      "site_id": "img_20260429_114859_00_066",
+      "display_name": "Day 2 - Stop 124",
+      "lat": 46.865350311850314,
+      "lng": -122.72593849920064,
+      "platform": "float",
+      "alt": 74.5
+    },
+    {
+      "site_id": "img_20260429_115008_00_067",
+      "display_name": "Day 2 - Stop 125",
+      "lat": 46.86563578850344,
+      "lng": -122.7266968462351,
+      "platform": "float",
+      "alt": 74.44
+    },
+    {
+      "site_id": "img_20260429_115108_00_068",
+      "display_name": "Day 2 - Stop 126",
+      "lat": 46.865912087149596,
+      "lng": -122.72725649641578,
+      "platform": "float",
+      "alt": 74.51
+    },
+    {
+      "site_id": "img_20260429_115202_00_069",
+      "display_name": "Day 2 - Stop 127",
+      "lat": 46.866257571648134,
+      "lng": -122.72754110791827,
+      "platform": "float",
+      "alt": 74.5
+    },
+    {
+      "site_id": "img_20260429_115437_00_070",
+      "display_name": "Day 2 - Stop 128",
+      "lat": 46.86716952255419,
+      "lng": -122.72763998226304,
+      "platform": "float",
+      "alt": 74.44
+    },
+    {
+      "site_id": "img_20260429_115515_00_071",
+      "display_name": "Day 2 - Stop 129",
+      "lat": 46.867466607379505,
+      "lng": -122.72757103763684,
+      "platform": "float",
+      "alt": 74.43
+    },
+    {
+      "site_id": "img_20260429_115549_00_072",
+      "display_name": "Day 2 - Stop 130",
+      "lat": 46.86773709066632,
+      "lng": -122.7275089527681,
+      "platform": "float",
+      "alt": 74.43
+    },
+    {
+      "site_id": "img_20260429_115638_00_073",
+      "display_name": "Day 2 - Stop 131",
+      "lat": 46.86817103978262,
+      "lng": -122.7272835092498,
+      "platform": "float",
+      "alt": 74.16
+    },
+    {
+      "site_id": "img_20260429_115737_00_074",
+      "display_name": "Day 2 - Stop 132",
+      "lat": 46.868564994026286,
+      "lng": -122.72680218978103,
+      "platform": "float",
+      "alt": 73.97
+    },
+    {
+      "site_id": "img_20260429_115932_00_075",
+      "display_name": "Day 2 - Stop 133",
+      "lat": 46.868935648023054,
+      "lng": -122.72713464574699,
+      "platform": "float",
+      "alt": 73.93
+    },
+    {
+      "site_id": "img_20260429_120052_00_076",
+      "display_name": "Day 2 - Stop 134",
+      "lat": 46.86888884998989,
+      "lng": -122.72779095537587,
+      "platform": "float",
+      "alt": 73.77
+    },
+    {
+      "site_id": "img_20260429_120153_00_077",
+      "display_name": "Day 2 - Stop 135",
+      "lat": 46.8691840502123,
+      "lng": -122.72856282067866,
+      "platform": "float",
+      "alt": 73.58
+    },
+    {
+      "site_id": "img_20260429_120331_00_078",
+      "display_name": "Day 2 - Stop 136",
+      "lat": 46.869833500212394,
+      "lng": -122.72896072887214,
+      "platform": "float",
+      "alt": 73.57
+    },
+    {
+      "site_id": "img_20260429_120433_00_079",
+      "display_name": "Day 2 - Stop 137",
+      "lat": 46.870357319853305,
+      "lng": -122.72875510023061,
+      "platform": "float",
+      "alt": 73.54
+    },
+    {
+      "site_id": "img_20260429_120535_00_080",
+      "display_name": "Day 2 - Stop 138",
+      "lat": 46.87089563621323,
+      "lng": -122.72880949404018,
+      "platform": "float",
+      "alt": 73.5
+    },
+    {
+      "site_id": "img_20260429_120633_00_081",
+      "display_name": "Day 2 - Stop 139",
+      "lat": 46.87115278041174,
+      "lng": -122.72907427788783,
+      "platform": "float",
+      "alt": 73.02
+    },
+    {
+      "site_id": "img_20260429_120712_00_082",
+      "display_name": "Day 2 - Stop 140",
+      "lat": 46.87110734310002,
+      "lng": -122.72946421549351,
+      "platform": "float",
+      "alt": 72.96
+    },
+    {
+      "site_id": "img_20260429_120813_00_083",
+      "display_name": "Day 2 - Stop 141",
+      "lat": 46.871167441148394,
+      "lng": -122.73015127303718,
+      "platform": "float",
+      "alt": 72.94
+    },
+    {
+      "site_id": "img_20260429_120948_00_084",
+      "display_name": "Day 2 - Stop 142",
+      "lat": 46.87166863207547,
+      "lng": -122.73038549418985,
+      "platform": "float",
+      "alt": 72.87
+    },
+    {
+      "site_id": "img_20260429_121013_00_085",
+      "display_name": "Day 2 - Stop 143",
+      "lat": 46.871941634738185,
+      "lng": -122.7302869004178,
+      "platform": "float",
+      "alt": 72.79
+    },
+    {
+      "site_id": "img_20260429_121107_00_086",
+      "display_name": "Day 2 - Stop 144",
+      "lat": 46.87234580288841,
+      "lng": -122.72978504412296,
+      "platform": "float",
+      "alt": 72.49
+    },
+    {
+      "site_id": "img_20260429_121211_00_087",
+      "display_name": "Day 2 - Stop 145",
+      "lat": 46.872827625438696,
+      "lng": -122.73038236979727,
+      "platform": "float",
+      "alt": 72.46
+    },
+    {
+      "site_id": "img_20260429_121239_00_088",
+      "display_name": "Day 2 - Stop 146",
+      "lat": 46.87299196600286,
+      "lng": -122.73062421004252,
+      "platform": "float",
+      "alt": 72.46
+    },
+    {
+      "site_id": "img_20260429_121303_00_089",
+      "display_name": "Day 2 - Stop 147",
+      "lat": 46.87313195243575,
+      "lng": -122.73092111224375,
+      "platform": "float",
+      "alt": 72.47
+    },
+    {
+      "site_id": "img_20260429_121403_00_090",
+      "display_name": "Day 2 - Stop 148",
+      "lat": 46.87325256595715,
+      "lng": -122.73186386508908,
+      "platform": "float",
+      "alt": 72.31
+    },
+    {
+      "site_id": "img_20260429_121447_00_091",
+      "display_name": "Day 2 - Stop 149",
+      "lat": 46.873218823751536,
+      "lng": -122.73241547396806,
+      "platform": "float",
+      "alt": 72.29
+    },
+    {
+      "site_id": "img_20260429_121551_00_092",
+      "display_name": "Day 2 - Stop 150",
+      "lat": 46.87334578592857,
+      "lng": -122.7330712219812,
+      "platform": "float",
+      "alt": 72.29
+    },
+    {
+      "site_id": "img_20260429_121753_00_093",
+      "display_name": "Day 2 - Stop 151",
+      "lat": 46.873594024436805,
+      "lng": -122.73371313783963,
+      "platform": "float",
+      "alt": 72.23
+    },
+    {
+      "site_id": "img_20260429_121859_00_094",
+      "display_name": "Day 2 - Stop 152",
+      "lat": 46.87413167666381,
+      "lng": -122.7343032939772,
+      "platform": "float",
+      "alt": 72.18
+    },
+    {
+      "site_id": "img_20260429_122006_00_095",
+      "display_name": "Day 2 - Stop 153",
+      "lat": 46.87448246105047,
+      "lng": -122.73507203432656,
+      "platform": "float",
+      "alt": 72.18
+    },
+    {
+      "site_id": "img_20260429_123900_00_096",
+      "display_name": "Day 2 - Stop 154",
+      "lat": 46.87462169959519,
+      "lng": -122.7356074811289,
+      "platform": "float",
+      "alt": 72.1
+    },
+    {
+      "site_id": "img_20260429_123936_00_097",
+      "display_name": "Day 2 - Stop 155",
+      "lat": 46.87453671712186,
+      "lng": -122.73596067844677,
+      "platform": "float",
+      "alt": 72.02
+    },
+    {
+      "site_id": "img_20260429_124025_00_098",
+      "display_name": "Day 2 - Stop 156",
+      "lat": 46.874422456023154,
+      "lng": -122.73673004314995,
+      "platform": "float",
+      "alt": 71.86
+    },
+    {
+      "site_id": "img_20260429_124103_00_099",
+      "display_name": "Day 2 - Stop 157",
+      "lat": 46.874293745275885,
+      "lng": -122.73744314000936,
+      "platform": "float",
+      "alt": 71.65
+    },
+    {
+      "site_id": "img_20260429_124202_00_100",
+      "display_name": "Day 2 - Stop 158",
+      "lat": 46.87452629920092,
+      "lng": -122.73791371276975,
+      "platform": "float",
+      "alt": 71.68
+    },
+    {
+      "site_id": "img_20260429_124251_00_101",
+      "display_name": "Day 2 - Stop 159",
+      "lat": 46.874687108221245,
+      "lng": -122.73861600783476,
+      "platform": "float",
+      "alt": 71.48
+    },
+    {
+      "site_id": "img_20260429_124402_00_102",
+      "display_name": "Day 2 - Stop 160",
+      "lat": 46.875055630394655,
+      "lng": -122.73874017783292,
+      "platform": "float",
+      "alt": 71.49
+    },
+    {
+      "site_id": "img_20260429_124451_00_103",
+      "display_name": "Day 2 - Stop 161",
+      "lat": 46.875566075908395,
+      "lng": -122.73859616476848,
+      "platform": "float",
+      "alt": 71.07
+    },
+    {
+      "site_id": "img_20260429_124532_00_104",
+      "display_name": "Day 2 - Stop 162",
+      "lat": 46.87590577444236,
+      "lng": -122.73879933305831,
+      "platform": "float",
+      "alt": 70.96
+    },
+    {
+      "site_id": "img_20260429_124801_00_105",
+      "display_name": "Day 2 - Stop 163",
+      "lat": 46.87595596009746,
+      "lng": -122.73940039009955,
+      "platform": "float",
+      "alt": 70.97
+    },
+    {
+      "site_id": "img_20260429_124849_00_106",
+      "display_name": "Day 2 - Stop 164",
+      "lat": 46.875733832054145,
+      "lng": -122.74001595557566,
+      "platform": "float",
+      "alt": 70.68
+    },
+    {
+      "site_id": "img_20260429_124931_00_107",
+      "display_name": "Day 2 - Stop 165",
+      "lat": 46.8754281628533,
+      "lng": -122.74039270365542,
+      "platform": "float",
+      "alt": 70.63
+    },
+    {
+      "site_id": "img_20260429_125015_00_108",
+      "display_name": "Day 2 - Stop 166",
+      "lat": 46.87507207127212,
+      "lng": -122.74090759352318,
+      "platform": "float",
+      "alt": 70.36
+    },
+    {
+      "site_id": "img_20260429_125046_00_109",
+      "display_name": "Day 2 - Stop 167",
+      "lat": 46.875078195365596,
+      "lng": -122.74138043690267,
+      "platform": "float",
+      "alt": 70.2
+    },
+    {
+      "site_id": "img_20260429_125132_00_110",
+      "display_name": "Day 2 - Stop 168",
+      "lat": 46.87530093914589,
+      "lng": -122.74215034420459,
+      "platform": "float",
+      "alt": 70.14
+    },
+    {
+      "site_id": "img_20260429_125213_00_111",
+      "display_name": "Day 2 - Stop 169",
+      "lat": 46.87554616791835,
+      "lng": -122.74279410685455,
+      "platform": "float",
+      "alt": 69.95
+    },
+    {
+      "site_id": "img_20260429_125336_00_112",
+      "display_name": "Day 2 - Stop 170",
+      "lat": 46.87605364656382,
+      "lng": -122.74368101667405,
+      "platform": "float",
+      "alt": 69.85
+    },
+    {
+      "site_id": "img_20260429_125449_00_113",
+      "display_name": "Day 2 - Stop 171",
+      "lat": 46.87655829866763,
+      "lng": -122.74466043307086,
+      "platform": "float",
+      "alt": 69.71
+    },
+    {
+      "site_id": "img_20260429_125527_00_114",
+      "display_name": "Day 2 - Stop 172",
+      "lat": 46.876913650793654,
+      "lng": -122.7452140118363,
+      "platform": "float",
+      "alt": 69.6
+    },
+    {
+      "site_id": "img_20260429_125649_00_115",
+      "display_name": "Day 2 - Stop 173",
+      "lat": 46.87743026977595,
+      "lng": -122.74631770145311,
+      "platform": "float",
+      "alt": 69.49
+    },
+    {
+      "site_id": "img_20260429_125750_00_116",
+      "display_name": "Day 2 - Stop 174",
+      "lat": 46.87773173970783,
+      "lng": -122.74713152701882,
+      "platform": "float",
+      "alt": 69.45
+    },
+    {
+      "site_id": "img_20260429_125824_00_117",
+      "display_name": "Day 2 - Stop 175",
+      "lat": 46.87800351802991,
+      "lng": -122.74741932475284,
+      "platform": "float",
+      "alt": 69.42
+    },
+    {
+      "site_id": "img_20260429_125942_00_118",
+      "display_name": "Day 2 - Stop 176",
+      "lat": 46.878683433237775,
+      "lng": -122.74815678303843,
+      "platform": "float",
+      "alt": 69.41
+    },
+    {
+      "site_id": "img_20260429_130031_00_119",
+      "display_name": "Day 2 - Stop 177",
+      "lat": 46.878857117187756,
+      "lng": -122.74881716342254,
+      "platform": "float",
+      "alt": 69.26
+    },
+    {
+      "site_id": "img_20260429_130110_00_120",
+      "display_name": "Day 2 - Stop 178",
+      "lat": 46.87893505903724,
+      "lng": -122.74928569245813,
+      "platform": "float",
+      "alt": 69.21
+    },
+    {
+      "site_id": "img_20260429_130204_00_121",
+      "display_name": "Day 2 - Stop 179",
+      "lat": 46.87899204760316,
+      "lng": -122.74994473032208,
+      "platform": "float",
+      "alt": 69.11
+    },
+    {
+      "site_id": "img_20260429_130417_00_122",
+      "display_name": "Day 2 - Stop 180",
+      "lat": 46.87896619233007,
+      "lng": -122.7501315530553,
+      "platform": "float",
+      "alt": 69.06
+    },
+    {
+      "site_id": "img_20260429_130520_00_123",
+      "display_name": "Day 2 - Stop 181",
+      "lat": 46.879102477856264,
+      "lng": -122.75061245545838,
+      "platform": "float",
+      "alt": 69.03
+    },
+    {
+      "site_id": "img_20260429_130612_00_124",
+      "display_name": "Day 2 - Stop 182",
+      "lat": 46.87916524239349,
+      "lng": -122.75094231901119,
+      "platform": "float",
+      "alt": 68.99
+    },
+    {
+      "site_id": "img_20260429_130700_00_125",
+      "display_name": "Day 2 - Stop 183",
+      "lat": 46.87939296836795,
+      "lng": -122.75172064977838,
+      "platform": "float",
+      "alt": 68.86
+    },
+    {
+      "site_id": "img_20260429_130741_00_126",
+      "display_name": "Day 2 - Stop 184",
+      "lat": 46.87975289720814,
+      "lng": -122.75211738459474,
+      "platform": "float",
+      "alt": 70.57
+    },
+    {
+      "site_id": "img_20260429_130842_00_127",
+      "display_name": "Day 2 - Stop 185",
+      "lat": 46.88034682387933,
+      "lng": -122.75240350204498,
+      "platform": "float",
+      "alt": 68.48
+    },
+    {
+      "site_id": "img_20260429_130931_00_128",
+      "display_name": "Day 2 - Stop 186",
+      "lat": 46.88098413115904,
+      "lng": -122.75249485476097,
+      "platform": "float",
+      "alt": 67.99
+    },
+    {
+      "site_id": "img_20260429_131007_00_129",
+      "display_name": "Day 2 - Stop 187",
+      "lat": 46.88137754537406,
+      "lng": -122.75252880564439,
+      "platform": "float",
+      "alt": 67.94
+    },
+    {
+      "site_id": "img_20260429_131050_00_130",
+      "display_name": "Day 2 - Stop 188",
+      "lat": 46.881912978438045,
+      "lng": -122.75235334320537,
+      "platform": "float",
+      "alt": 67.81
+    },
+    {
+      "site_id": "img_20260429_131140_00_131",
+      "display_name": "Day 2 - Stop 189",
+      "lat": 46.88257947938337,
+      "lng": -122.75209468898863,
+      "platform": "float",
+      "alt": 67.7
+    },
+    {
+      "site_id": "img_20260429_131246_00_132",
+      "display_name": "Day 2 - Stop 190",
+      "lat": 46.8831155390794,
+      "lng": -122.75197579432223,
+      "platform": "float",
+      "alt": 67.91
+    },
+    {
+      "site_id": "img_20260429_131338_00_133",
+      "display_name": "Day 2 - Stop 191",
+      "lat": 46.88357928294694,
+      "lng": -122.7522813554295,
+      "platform": "float",
+      "alt": 67.64
+    },
+    {
+      "site_id": "img_20260429_131415_00_134",
+      "display_name": "Day 2 - Stop 192",
+      "lat": 46.883960620993804,
+      "lng": -122.75264169103313,
+      "platform": "float",
+      "alt": 67.54
+    },
+    {
+      "site_id": "img_20260429_131455_00_135",
+      "display_name": "Day 2 - Stop 193",
+      "lat": 46.88442604882488,
+      "lng": -122.75309102760302,
+      "platform": "float",
+      "alt": 67.16
+    },
+    {
+      "site_id": "img_20260429_131526_00_136",
+      "display_name": "Day 2 - Stop 194",
+      "lat": 46.884720671216286,
+      "lng": -122.7534300625595,
+      "platform": "float",
+      "alt": 67.08
+    },
+    {
+      "site_id": "img_20260429_131631_00_137",
+      "display_name": "Day 2 - Stop 195",
+      "lat": 46.885366526810685,
+      "lng": -122.7539901139965,
+      "platform": "float",
+      "alt": 66.95
+    },
+    {
+      "site_id": "img_20260429_131736_00_138",
+      "display_name": "Day 2 - Stop 196",
+      "lat": 46.88568251989075,
+      "lng": -122.75455300824842,
+      "platform": "float",
+      "alt": 67.02
+    },
+    {
+      "site_id": "img_20260429_131811_00_139",
+      "display_name": "Day 2 - Stop 197",
+      "lat": 46.885927685126546,
+      "lng": -122.75519156650945,
+      "platform": "float",
+      "alt": 66.66
+    },
+    {
+      "site_id": "img_20260429_131941_00_140",
+      "display_name": "Day 2 - Stop 198",
+      "lat": 46.886416661733655,
+      "lng": -122.75621524881846,
+      "platform": "float",
+      "alt": 66.58
+    },
+    {
+      "site_id": "img_20260429_132101_00_141",
+      "display_name": "Day 2 - Stop 199",
+      "lat": 46.88714979389366,
+      "lng": -122.75676904951547,
+      "platform": "float",
+      "alt": 66.42
+    },
+    {
+      "site_id": "img_20260429_132235_00_142",
+      "display_name": "Day 2 - Stop 200",
+      "lat": 46.888086319084096,
+      "lng": -122.75765360696518,
+      "platform": "float",
+      "alt": 66.33
+    },
+    {
+      "site_id": "img_20260429_132308_00_143",
+      "display_name": "Day 2 - Stop 201",
+      "lat": 46.88820283803948,
+      "lng": -122.75817572668932,
+      "platform": "float",
+      "alt": 66.28
+    },
+    {
+      "site_id": "img_20260429_132352_00_144",
+      "display_name": "Day 2 - Stop 202",
+      "lat": 46.88814986441493,
+      "lng": -122.75904757287829,
+      "platform": "float",
+      "alt": 65.94
+    },
+    {
+      "site_id": "img_20260429_132448_00_145",
+      "display_name": "Day 2 - Stop 203",
+      "lat": 46.88804457422382,
+      "lng": -122.75965324794144,
+      "platform": "float",
+      "alt": 65.73
+    },
+    {
+      "site_id": "img_20260429_132822_00_146",
+      "display_name": "Day 2 - Stop 204",
+      "lat": 46.888081739854584,
+      "lng": -122.75979687586245,
+      "platform": "float",
+      "alt": 65.73
+    },
+    {
+      "site_id": "img_20260429_132944_00_147",
+      "display_name": "Day 2 - Stop 205",
+      "lat": 46.88848334569274,
+      "lng": -122.76035146373918,
+      "platform": "float",
+      "alt": 65.67
+    },
+    {
+      "site_id": "img_20260429_133040_00_148",
+      "display_name": "Day 2 - Stop 206",
+      "lat": 46.88911879070672,
+      "lng": -122.76078523551347,
+      "platform": "float",
+      "alt": 67.42
+    },
+    {
+      "site_id": "img_20260429_133104_00_149",
+      "display_name": "Day 2 - Stop 207",
+      "lat": 46.889369110607205,
+      "lng": -122.76093717421125,
+      "platform": "float",
+      "alt": 68.61
+    },
+    {
+      "site_id": "img_20260429_133158_00_150",
+      "display_name": "Day 2 - Stop 208",
+      "lat": 46.88999305151574,
+      "lng": -122.76107730448501,
+      "platform": "float",
+      "alt": 64.8
+    },
+    {
+      "site_id": "img_20260429_133254_00_151",
+      "display_name": "Day 2 - Stop 209",
+      "lat": 46.89068262391498,
+      "lng": -122.76151071889103,
+      "platform": "float",
+      "alt": 64.64
+    },
+    {
+      "site_id": "img_20260429_133347_00_152",
+      "display_name": "Day 2 - Stop 210",
+      "lat": 46.89124826147427,
+      "lng": -122.76202923063579,
+      "platform": "float",
+      "alt": 64.59
+    },
+    {
+      "site_id": "img_20260429_133502_00_153",
+      "display_name": "Day 2 - Stop 211",
+      "lat": 46.891954245745346,
+      "lng": -122.7629474126658,
+      "platform": "float",
+      "alt": 64.43
+    },
+    {
+      "site_id": "img_20260429_133542_00_154",
+      "display_name": "Day 2 - Stop 212",
+      "lat": 46.89233693725629,
+      "lng": -122.76369790737768,
+      "platform": "float",
+      "alt": 64.22
+    },
+    {
+      "site_id": "img_20260429_133620_00_155",
+      "display_name": "Day 2 - Stop 213",
+      "lat": 46.892658568354285,
+      "lng": -122.76423742253452,
+      "platform": "float",
+      "alt": 63.91
+    },
+    {
+      "site_id": "img_20260429_133702_00_156",
+      "display_name": "Day 2 - Stop 214",
+      "lat": 46.89303685636856,
+      "lng": -122.76463210875882,
+      "platform": "float",
+      "alt": 64.02
+    },
+    {
+      "site_id": "img_20260429_133803_00_157",
+      "display_name": "Day 2 - Stop 215",
+      "lat": 46.89331078878748,
+      "lng": -122.76539254073722,
+      "platform": "float",
+      "alt": 63.98
+    },
+    {
+      "site_id": "img_20260429_133903_00_158",
+      "display_name": "Day 2 - Stop 216",
+      "lat": 46.89356172779506,
+      "lng": -122.76637833008446,
+      "platform": "float",
+      "alt": 63.61
+    },
+    {
+      "site_id": "img_20260429_133952_00_159",
+      "display_name": "Day 2 - Stop 217",
+      "lat": 46.89379265646575,
+      "lng": -122.76712370049394,
+      "platform": "float",
+      "alt": 63.53
+    },
+    {
+      "site_id": "img_20260429_134100_00_160",
+      "display_name": "Day 2 - Stop 218",
+      "lat": 46.893751540357364,
+      "lng": -122.76726919117475,
+      "platform": "float",
+      "alt": 63.58
+    },
+    {
+      "site_id": "img_20260429_134217_00_161",
+      "display_name": "Day 2 - Stop 219",
+      "lat": 46.89397397397397,
+      "lng": -122.76753383151164,
+      "platform": "float",
+      "alt": 63.52
+    },
+    {
+      "site_id": "img_20260429_134326_00_162",
+      "display_name": "Day 2 - Stop 220",
+      "lat": 46.8942792805565,
+      "lng": -122.76838437224727,
+      "platform": "float",
+      "alt": 63.28
+    },
+    {
+      "site_id": "img_20260429_134408_00_163",
+      "display_name": "Day 2 - Stop 221",
+      "lat": 46.89455850204353,
+      "lng": -122.76902853562912,
+      "platform": "float",
+      "alt": 63.23
+    },
+    {
+      "site_id": "img_20260429_134542_00_164",
+      "display_name": "Day 2 - Stop 222",
+      "lat": 46.89524027264009,
+      "lng": -122.77013500536633,
+      "platform": "float",
+      "alt": 62.9
+    },
+    {
+      "site_id": "img_20260429_134631_00_165",
+      "display_name": "Day 2 - Stop 223",
+      "lat": 46.89557724752952,
+      "lng": -122.7705959663782,
+      "platform": "float",
+      "alt": 62.82
+    },
+    {
+      "site_id": "img_20260429_134722_00_166",
+      "display_name": "Day 2 - Stop 224",
+      "lat": 46.89577499279746,
+      "lng": -122.77109952210274,
+      "platform": "float",
+      "alt": 62.79
+    },
+    {
+      "site_id": "img_20260429_134825_00_167",
+      "display_name": "Day 2 - Stop 225",
+      "lat": 46.89616203057108,
+      "lng": -122.77177514012529,
+      "platform": "float",
+      "alt": 62.64
+    },
+    {
+      "site_id": "img_20260429_134922_00_168",
+      "display_name": "Day 2 - Stop 226",
+      "lat": 46.89653373290303,
+      "lng": -122.77249521495878,
+      "platform": "float",
+      "alt": 62.53
+    },
+    {
+      "site_id": "img_20260429_135012_00_169",
+      "display_name": "Day 2 - Stop 227",
+      "lat": 46.8968567333458,
+      "lng": -122.77322107105421,
+      "platform": "float",
+      "alt": 62.49
+    },
+    {
+      "site_id": "img_20260429_135106_00_170",
+      "display_name": "Day 2 - Stop 228",
+      "lat": 46.89722678793191,
+      "lng": -122.77394780685812,
+      "platform": "float",
+      "alt": 62.36
+    },
+    {
+      "site_id": "img_20260429_135214_00_171",
+      "display_name": "Day 2 - Stop 229",
+      "lat": 46.89764980190036,
+      "lng": -122.7751227339752,
+      "platform": "float",
+      "alt": 62.13
+    },
+    {
+      "site_id": "img_20260429_135303_00_172",
+      "display_name": "Day 2 - Stop 230",
+      "lat": 46.897975352112674,
+      "lng": -122.77568686057577,
+      "platform": "float",
+      "alt": 62.18
+    },
+    {
+      "site_id": "img_20260429_135406_00_173",
+      "display_name": "Day 2 - Stop 231",
+      "lat": 46.8982951040231,
+      "lng": -122.77625309580097,
+      "platform": "float",
+      "alt": 62.1
+    },
+    {
+      "site_id": "img_20260429_135440_00_174",
+      "display_name": "Day 2 - Stop 232",
+      "lat": 46.898717132946665,
+      "lng": -122.77672417548445,
+      "platform": "float",
+      "alt": 61.76
+    },
+    {
+      "site_id": "img_20260429_135520_00_175",
+      "display_name": "Day 2 - Stop 233",
+      "lat": 46.899063051146385,
+      "lng": -122.77709093045901,
+      "platform": "float",
+      "alt": 61.77
+    },
+    {
+      "site_id": "img_20260429_135633_00_176",
+      "display_name": "Day 2 - Stop 234",
+      "lat": 46.89989238501038,
+      "lng": -122.77831438893294,
+      "platform": "float",
+      "alt": 61.41
+    },
+    {
+      "site_id": "img_20260429_135713_00_177",
+      "display_name": "Day 2 - Stop 235",
+      "lat": 46.900297109811255,
+      "lng": -122.77884494402812,
+      "platform": "float",
+      "alt": 61.37
+    },
+    {
+      "site_id": "img_20260429_135816_00_178",
+      "display_name": "Day 2 - Stop 236",
+      "lat": 46.90084562843674,
+      "lng": -122.7795080258495,
+      "platform": "float",
+      "alt": 61.32
+    },
+    {
+      "site_id": "img_20260429_135858_00_179",
+      "display_name": "Day 2 - Stop 237",
+      "lat": 46.901182805996065,
+      "lng": -122.78008021895054,
+      "platform": "float",
+      "alt": 61.33
+    },
+    {
+      "site_id": "img_20260429_135935_00_180",
+      "display_name": "Day 2 - Stop 238",
+      "lat": 46.90148296279605,
+      "lng": -122.78046064428368,
+      "platform": "float",
+      "alt": 61.22
+    },
+    {
+      "site_id": "img_20260429_140002_00_181",
+      "display_name": "Day 2 - Stop 239",
+      "lat": 46.90167514164474,
+      "lng": -122.7809299997055,
+      "platform": "float",
+      "alt": 60.84
+    },
+    {
+      "site_id": "img_20260429_140025_00_182",
+      "display_name": "Day 2 - Stop 240",
+      "lat": 46.901857026274236,
+      "lng": -122.78135852055033,
+      "platform": "float",
+      "alt": 60.82
+    },
+    {
+      "site_id": "img_20260429_140107_00_183",
+      "display_name": "Day 2 - Stop 241",
+      "lat": 46.902276272725096,
+      "lng": -122.78185508781219,
+      "platform": "float",
+      "alt": 60.74
+    },
+    {
+      "site_id": "img_20260429_140232_00_184",
+      "display_name": "Day 2 - Stop 242",
+      "lat": 46.902825677710844,
+      "lng": -122.78233952369686,
+      "platform": "float",
+      "alt": 60.63
+    },
+    {
+      "site_id": "img_20260429_140620_00_185",
+      "display_name": "Day 2 - Stop 243",
+      "lat": 46.90310829437852,
+      "lng": -122.78272773122285,
+      "platform": "float",
+      "alt": 60.69
+    },
+    {
+      "site_id": "img_20260429_140720_00_186",
+      "display_name": "Day 2 - Stop 244",
+      "lat": 46.90347336516645,
+      "lng": -122.78333927805326,
+      "platform": "float",
+      "alt": 60.69
+    },
+    {
+      "site_id": "img_20260429_140817_00_187",
+      "display_name": "Day 2 - Stop 245",
+      "lat": 46.90376965460168,
+      "lng": -122.78419185775024,
+      "platform": "float",
+      "alt": 60.54
+    },
+    {
+      "site_id": "img_20260429_140851_00_188",
+      "display_name": "Day 2 - Stop 246",
+      "lat": 46.90388931822085,
+      "lng": -122.78468687386992,
+      "platform": "float",
+      "alt": 60.49
+    },
+    {
+      "site_id": "img_20260429_140940_00_189",
+      "display_name": "Day 2 - Stop 247",
+      "lat": 46.90415228327635,
+      "lng": -122.78541016965774,
+      "platform": "float",
+      "alt": 60.43
+    },
+    {
+      "site_id": "img_20260429_141044_00_190",
+      "display_name": "Day 2 - Stop 248",
+      "lat": 46.90423909057572,
+      "lng": -122.78628243915557,
+      "platform": "float",
+      "alt": 60.47
+    },
+    {
+      "site_id": "img_20260429_141126_00_191",
+      "display_name": "Day 2 - Stop 249",
+      "lat": 46.90427723940862,
+      "lng": -122.78687912061275,
+      "platform": "float",
+      "alt": 60.33
+    },
+    {
+      "site_id": "img_20260429_141238_00_192",
+      "display_name": "Day 2 - Stop 250",
+      "lat": 46.90438579291366,
+      "lng": -122.788047207411,
+      "platform": "float",
+      "alt": 60.3
+    },
+    {
+      "site_id": "img_20260429_141324_00_193",
+      "display_name": "Day 2 - Stop 251",
+      "lat": 46.9040439448081,
+      "lng": -122.78827215303403,
+      "platform": "float",
+      "alt": 60.2
+    },
+    {
+      "site_id": "img_20260429_141359_00_194",
+      "display_name": "Day 2 - Stop 252",
+      "lat": 46.90369589707103,
+      "lng": -122.78821947356924,
+      "platform": "float",
+      "alt": 60.17
+    },
+    {
+      "site_id": "img_20260429_141430_00_195",
+      "display_name": "Day 2 - Stop 253",
+      "lat": 46.90332156727225,
+      "lng": -122.78801232734105,
+      "platform": "float",
+      "alt": 59.59
+    },
+    {
+      "site_id": "img_20260429_141507_00_196",
+      "display_name": "Day 2 - Stop 254",
+      "lat": 46.90283136500008,
+      "lng": -122.7881162699743,
+      "platform": "float",
+      "alt": 59.73
+    },
+    {
+      "site_id": "img_20260429_141630_00_197",
+      "display_name": "Day 2 - Stop 255",
+      "lat": 46.902536996823095,
+      "lng": -122.78816874005908,
+      "platform": "float",
+      "alt": 59.63
+    },
+    {
+      "site_id": "img_20260429_141917_00_198",
+      "display_name": "Day 2 - Stop 256",
+      "lat": 46.902370750708215,
+      "lng": -122.78849595811631,
+      "platform": "float",
+      "alt": 59.59
+    },
+    {
+      "site_id": "img_20260429_142010_00_199",
+      "display_name": "Day 2 - Stop 257",
+      "lat": 46.90262637959627,
+      "lng": -122.78912331613643,
+      "platform": "float",
+      "alt": 59.51
+    },
+    {
+      "site_id": "img_20260429_142059_00_200",
+      "display_name": "Day 2 - Stop 258",
+      "lat": 46.902918065937236,
+      "lng": -122.78987727544016,
+      "platform": "float",
+      "alt": 59.14
+    },
+    {
+      "site_id": "img_20260429_142206_00_201",
+      "display_name": "Day 2 - Stop 259",
+      "lat": 46.903336559492566,
+      "lng": -122.79080149827955,
+      "platform": "float",
+      "alt": 59.13
+    },
+    {
+      "site_id": "img_20260429_142245_00_202",
+      "display_name": "Day 2 - Stop 260",
+      "lat": 46.90363801929514,
+      "lng": -122.79138347746454,
+      "platform": "float",
+      "alt": 58.89
+    },
+    {
+      "site_id": "img_20260429_142334_00_203",
+      "display_name": "Day 2 - Stop 261",
+      "lat": 46.903745036136925,
+      "lng": -122.79199678056041,
+      "platform": "float",
+      "alt": 58.74
+    },
+    {
+      "site_id": "img_20260429_142515_00_204",
+      "display_name": "Day 2 - Stop 262",
+      "lat": 46.90403813597077,
+      "lng": -122.79256344076369,
+      "platform": "float",
+      "alt": 58.72
+    },
+    {
+      "site_id": "img_20260429_142602_00_205",
+      "display_name": "Day 2 - Stop 263",
+      "lat": 46.90426547871401,
+      "lng": -122.79296277694067,
+      "platform": "float",
+      "alt": 58.7
+    },
+    {
+      "site_id": "img_20260429_142638_00_206",
+      "display_name": "Day 2 - Stop 264",
+      "lat": 46.90460885646248,
+      "lng": -122.79355314388657,
+      "platform": "float",
+      "alt": 58.13
+    },
+    {
+      "site_id": "img_20260429_142717_00_207",
+      "display_name": "Day 2 - Stop 265",
+      "lat": 46.90498003194888,
+      "lng": -122.79408778161802,
+      "platform": "float",
+      "alt": 57.79
+    },
+    {
+      "site_id": "img_20260429_142744_00_208",
+      "display_name": "Day 2 - Stop 266",
+      "lat": 46.90517516805061,
+      "lng": -122.79443410784998,
+      "platform": "float",
+      "alt": 57.82
+    },
+    {
+      "site_id": "img_20260429_142810_00_209",
+      "display_name": "Day 2 - Stop 267",
+      "lat": 46.90538327151535,
+      "lng": -122.79471860730594,
+      "platform": "float",
+      "alt": 57.79
+    },
+    {
+      "site_id": "img_20260429_142841_00_210",
+      "display_name": "Day 2 - Stop 268",
+      "lat": 46.905587847568405,
+      "lng": -122.79501403139524,
+      "platform": "float",
+      "alt": 57.75
+    },
+    {
+      "site_id": "img_20260429_142920_00_211",
+      "display_name": "Day 2 - Stop 269",
+      "lat": 46.90591238051008,
+      "lng": -122.7954914472904,
+      "platform": "float",
+      "alt": 57.66
+    },
+    {
+      "site_id": "img_20260429_143008_00_212",
+      "display_name": "Day 2 - Stop 270",
+      "lat": 46.90630252315881,
+      "lng": -122.7960354322527,
+      "platform": "float",
+      "alt": 57.34
+    },
+    {
+      "site_id": "img_20260429_143039_00_213",
+      "display_name": "Day 2 - Stop 271",
+      "lat": 46.906421207264955,
+      "lng": -122.79665049291435,
+      "platform": "float",
+      "alt": 57.12
+    },
+    {
+      "site_id": "img_20260429_143123_00_214",
+      "display_name": "Day 2 - Stop 272",
+      "lat": 46.90651758848952,
+      "lng": -122.79742340154931,
+      "platform": "float",
+      "alt": 57.06
+    },
+    {
+      "site_id": "img_20260429_143156_00_215",
+      "display_name": "Day 2 - Stop 273",
+      "lat": 46.90661575702314,
+      "lng": -122.79805231380176,
+      "platform": "float",
+      "alt": 57.0
+    },
+    {
+      "site_id": "img_20260429_143229_00_216",
+      "display_name": "Day 2 - Stop 274",
+      "lat": 46.906688759805384,
+      "lng": -122.79861746031746,
+      "platform": "float",
+      "alt": 56.66
+    },
+    {
+      "site_id": "img_20260429_143335_00_217",
+      "display_name": "Day 2 - Stop 275",
+      "lat": 46.906733910891084,
+      "lng": -122.79990662338884,
+      "platform": "float",
+      "alt": 56.67
+    },
+    {
+      "site_id": "img_20260429_143729_00_218",
+      "display_name": "Day 2 - Stop 276",
+      "lat": 46.90671231507397,
+      "lng": -122.80029248940686,
+      "platform": "float",
+      "alt": 56.66
+    },
+    {
+      "site_id": "img_20260429_143844_00_219",
+      "display_name": "Day 2 - Stop 277",
+      "lat": 46.90691716839993,
+      "lng": -122.80068103781947,
+      "platform": "float",
+      "alt": 56.67
+    },
+    {
+      "site_id": "img_20260429_143922_00_220",
+      "display_name": "Day 2 - Stop 278",
+      "lat": 46.90731769112139,
+      "lng": -122.80099805984628,
+      "platform": "float",
+      "alt": 56.52
+    },
+    {
+      "site_id": "img_20260429_143957_00_221",
+      "display_name": "Day 2 - Stop 279",
+      "lat": 46.907755265976434,
+      "lng": -122.80120763491585,
+      "platform": "float",
+      "alt": 56.24
+    },
+    {
+      "site_id": "img_20260429_144036_00_222",
+      "display_name": "Day 2 - Stop 280",
+      "lat": 46.90803130929791,
+      "lng": -122.80137752125144,
+      "platform": "float",
+      "alt": 56.2
+    },
+    {
+      "site_id": "img_20260429_144134_00_223",
+      "display_name": "Day 2 - Stop 281",
+      "lat": 46.90851784989054,
+      "lng": -122.8014986109044,
+      "platform": "float",
+      "alt": 56.17
+    },
+    {
+      "site_id": "img_20260429_144210_00_224",
+      "display_name": "Day 2 - Stop 282",
+      "lat": 46.9089916195037,
+      "lng": -122.80160199306624,
+      "platform": "float",
+      "alt": 55.73
+    },
+    {
+      "site_id": "img_20260429_144301_00_225",
+      "display_name": "Day 2 - Stop 283",
+      "lat": 46.90948993545564,
+      "lng": -122.8013893295437,
+      "platform": "float",
+      "alt": 55.68
+    },
+    {
+      "site_id": "img_20260429_144405_00_226",
+      "display_name": "Day 2 - Stop 284",
+      "lat": 46.91007185391711,
+      "lng": -122.80127636230647,
+      "platform": "float",
+      "alt": 55.61
+    },
+    {
+      "site_id": "img_20260429_144500_00_227",
+      "display_name": "Day 2 - Stop 285",
+      "lat": 46.91064092820591,
+      "lng": -122.80109415961996,
+      "platform": "float",
+      "alt": 55.52
+    },
+    {
+      "site_id": "img_20260429_144540_00_228",
+      "display_name": "Day 2 - Stop 286",
+      "lat": 46.91103910369068,
+      "lng": -122.80121890369097,
+      "platform": "float",
+      "alt": 55.44
+    },
+    {
+      "site_id": "img_20260429_144703_00_229",
+      "display_name": "Day 2 - Stop 287",
+      "lat": 46.91140324444444,
+      "lng": -122.8015048864955,
+      "platform": "float",
+      "alt": 55.42
+    },
+    {
+      "site_id": "img_20260429_144739_00_230",
+      "display_name": "Day 2 - Stop 288",
+      "lat": 46.911569952574524,
+      "lng": -122.80191936069443,
+      "platform": "float",
+      "alt": 55.4
+    },
+    {
+      "site_id": "img_20260429_144822_00_231",
+      "display_name": "Day 2 - Stop 289",
+      "lat": 46.91171885578876,
+      "lng": -122.80286747877446,
+      "platform": "float",
+      "alt": 55.05
+    },
+    {
+      "site_id": "img_20260429_144859_00_232",
+      "display_name": "Day 2 - Stop 290",
+      "lat": 46.911784301856336,
+      "lng": -122.80354534720354,
+      "platform": "float",
+      "alt": 54.9
+    },
+    {
+      "site_id": "img_20260429_144947_00_233",
+      "display_name": "Day 2 - Stop 291",
+      "lat": 46.91175308127143,
+      "lng": -122.80458395796057,
+      "platform": "float",
+      "alt": 54.18
+    },
+    {
+      "site_id": "img_20260429_145046_00_234",
+      "display_name": "Day 2 - Stop 292",
+      "lat": 46.911996830002145,
+      "lng": -122.80543219183,
+      "platform": "float",
+      "alt": 54.16
+    },
+    {
+      "site_id": "img_20260429_145148_00_235",
+      "display_name": "Day 2 - Stop 293",
+      "lat": 46.912274355683884,
+      "lng": -122.8060833140298,
+      "platform": "float",
+      "alt": 54.12
+    },
+    {
+      "site_id": "img_20260429_145225_00_236",
+      "display_name": "Day 2 - Stop 294",
+      "lat": 46.91253583012748,
+      "lng": -122.80621244444444,
+      "platform": "float",
+      "alt": 54.1
+    },
+    {
+      "site_id": "img_20260429_145831_00_237",
+      "display_name": "Day 2 - Stop 295",
+      "lat": 46.912752470474814,
+      "lng": -122.8059023419876,
+      "platform": "float",
+      "alt": 54.07
+    },
+    {
+      "site_id": "img_20260429_150302_00_238",
+      "display_name": "Day 2 - Stop 296",
+      "lat": 46.912832682291665,
+      "lng": -122.80556362527795,
+      "platform": "float",
+      "alt": 53.96
+    },
+    {
+      "site_id": "img_20260429_150408_00_239",
+      "display_name": "Day 2 - Stop 297",
+      "lat": 46.91286683384774,
+      "lng": -122.80512284229931,
+      "platform": "float",
+      "alt": 53.66
+    },
+    {
+      "site_id": "img_20260429_150448_00_240",
+      "display_name": "Day 2 - Stop 298",
+      "lat": 46.91306661080854,
+      "lng": -122.80438933766268,
+      "platform": "float",
+      "alt": 53.58
+    },
+    {
+      "site_id": "img_20260429_150519_00_241",
+      "display_name": "Day 2 - Stop 299",
+      "lat": 46.913277466743224,
+      "lng": -122.80420923033628,
+      "platform": "float",
+      "alt": 53.57
+    },
+    {
+      "site_id": "img_20260429_150602_00_242",
+      "display_name": "Day 2 - Stop 300",
+      "lat": 46.913756607819664,
+      "lng": -122.80432333552163,
+      "platform": "float",
+      "alt": 53.32
+    },
+    {
+      "site_id": "img_20260429_150651_00_243",
+      "display_name": "Day 2 - Stop 301",
+      "lat": 46.91416221400192,
+      "lng": -122.80472303693927,
+      "platform": "float",
+      "alt": 53.03
+    },
+    {
+      "site_id": "img_20260429_150738_00_244",
+      "display_name": "Day 2 - Stop 302",
+      "lat": 46.91464190175097,
+      "lng": -122.80513473428398,
+      "platform": "float",
+      "alt": 52.47
+    },
+    {
+      "site_id": "img_20260429_150816_00_245",
+      "display_name": "Day 2 - Stop 303",
+      "lat": 46.915086405529955,
+      "lng": -122.80515652037124,
+      "platform": "float",
+      "alt": 52.34
+    },
+    {
+      "site_id": "img_20260429_150937_00_246",
+      "display_name": "Day 2 - Stop 304",
+      "lat": 46.91570467212143,
+      "lng": -122.80543635486981,
+      "platform": "float",
+      "alt": 52.19
+    },
+    {
+      "site_id": "img_20260429_151007_00_247",
+      "display_name": "Day 2 - Stop 305",
+      "lat": 46.915928143274854,
+      "lng": -122.80554234504427,
+      "platform": "float",
+      "alt": 52.2
+    },
+    {
+      "site_id": "img_20260429_151105_00_248",
+      "display_name": "Day 2 - Stop 306",
+      "lat": 46.91658554634051,
+      "lng": -122.80601584436421,
+      "platform": "float",
+      "alt": 51.8
+    },
+    {
+      "site_id": "img_20260429_151132_00_249",
+      "display_name": "Day 2 - Stop 307",
+      "lat": 46.91684683606351,
+      "lng": -122.80637985744971,
+      "platform": "float",
+      "alt": 51.53
+    },
+    {
+      "site_id": "img_20260429_151157_00_250",
+      "display_name": "Day 2 - Stop 308",
+      "lat": 46.91707610822106,
+      "lng": -122.80686392381793,
+      "platform": "float",
+      "alt": 51.04
+    },
+    {
+      "site_id": "img_20260429_151236_00_251",
+      "display_name": "Day 2 - Stop 309",
+      "lat": 46.91737004720957,
+      "lng": -122.80759570596797,
+      "platform": "float",
+      "alt": 50.55
+    },
+    {
+      "site_id": "img_20260429_151334_00_252",
+      "display_name": "Day 2 - Stop 310",
+      "lat": 46.917838654956356,
+      "lng": -122.80820393022992,
+      "platform": "float",
+      "alt": 50.37
+    },
+    {
+      "site_id": "img_20260429_151406_00_253",
+      "display_name": "Day 2 - Stop 311",
+      "lat": 46.91823765867419,
+      "lng": -122.80864737697742,
+      "platform": "float",
+      "alt": 50.17
+    },
+    {
+      "site_id": "img_20260429_151446_00_254",
+      "display_name": "Day 2 - Stop 312",
+      "lat": 46.918729122807015,
+      "lng": -122.80902574180298,
+      "platform": "float",
+      "alt": 50.0
+    },
+    {
+      "site_id": "img_20260429_151517_00_255",
+      "display_name": "Day 2 - Stop 313",
+      "lat": 46.91915214696768,
+      "lng": -122.80927031695958,
+      "platform": "float",
+      "alt": 49.82
+    },
+    {
+      "site_id": "img_20260429_151627_00_256",
+      "display_name": "Day 2 - Stop 314",
+      "lat": 46.919789506103,
+      "lng": -122.80931833994295,
+      "platform": "float",
+      "alt": 49.78
+    },
+    {
+      "site_id": "img_20260429_152001_00_257",
+      "display_name": "Day 2 - Stop 315",
+      "lat": 46.920201360344485,
+      "lng": -122.80969434589176,
+      "platform": "float",
+      "alt": 49.68
+    },
+    {
+      "site_id": "img_20260429_152035_00_258",
+      "display_name": "Day 2 - Stop 316",
+      "lat": 46.92063901289682,
+      "lng": -122.81028373905616,
+      "platform": "float",
+      "alt": 49.22
+    },
+    {
+      "site_id": "img_20260429_152112_00_259",
+      "display_name": "Day 2 - Stop 317",
+      "lat": 46.921114089614086,
+      "lng": -122.81072818689302,
+      "platform": "float",
+      "alt": 49.06
+    },
+    {
+      "site_id": "img_20260429_152202_00_260",
+      "display_name": "Day 2 - Stop 318",
+      "lat": 46.92161357003891,
+      "lng": -122.81130393460211,
+      "platform": "float",
+      "alt": 49.05
+    },
+    {
+      "site_id": "img_20260429_152307_00_261",
+      "display_name": "Day 2 - Stop 319",
+      "lat": 46.92214727134436,
+      "lng": -122.81166377691085,
+      "platform": "float",
+      "alt": 49.0
+    },
+    {
+      "site_id": "img_20260429_152356_00_262",
+      "display_name": "Day 2 - Stop 320",
+      "lat": 46.92265308943344,
+      "lng": -122.81209217877095,
+      "platform": "float",
+      "alt": 48.88
+    },
+    {
+      "site_id": "img_20260429_152509_00_263",
+      "display_name": "Day 2 - Stop 321",
+      "lat": 46.92332970112079,
+      "lng": -122.81242424655046,
+      "platform": "float",
+      "alt": 48.76
+    },
+    {
+      "site_id": "img_20260429_152640_00_264",
+      "display_name": "Day 2 - Stop 322",
+      "lat": 46.92386766001762,
+      "lng": -122.81271483576928,
+      "platform": "float",
+      "alt": 48.71
+    },
+    {
+      "site_id": "img_20260429_152737_00_265",
+      "display_name": "Day 2 - Stop 323",
+      "lat": 46.9241804178659,
+      "lng": -122.81282837281947,
+      "platform": "float",
+      "alt": 48.65
+    },
+    {
+      "site_id": "img_20260429_152824_00_266",
+      "display_name": "Day 2 - Stop 324",
+      "lat": 46.92439468619443,
+      "lng": -122.81274953249182,
+      "platform": "float",
+      "alt": 48.49
+    },
+    {
+      "site_id": "img_20260429_152859_00_267",
+      "display_name": "Day 2 - Stop 325",
+      "lat": 46.924787679710555,
+      "lng": -122.81252781320862,
+      "platform": "float",
+      "alt": 48.33
+    },
+    {
+      "site_id": "img_20260429_152956_00_268",
+      "display_name": "Day 2 - Stop 326",
+      "lat": 46.92496107068789,
+      "lng": -122.81262112541727,
+      "platform": "float",
+      "alt": 48.15
+    },
+    {
+      "site_id": "img_20260429_153050_00_269",
+      "display_name": "Day 2 - Stop 327",
+      "lat": 46.9252415799364,
+      "lng": -122.81218893944501,
+      "platform": "float",
+      "alt": 48.06
+    },
+    {
+      "site_id": "img_20260429_153148_00_270",
+      "display_name": "Day 2 - Stop 328",
+      "lat": 46.92567229796483,
+      "lng": -122.81178906892097,
+      "platform": "float",
+      "alt": 47.98
+    },
+    {
+      "site_id": "img_20260429_153300_00_271",
+      "display_name": "Day 2 - Stop 329",
+      "lat": 46.92629054271034,
+      "lng": -122.81172088330693,
+      "platform": "float",
+      "alt": 47.93
+    },
+    {
+      "site_id": "img_20260429_153339_00_272",
+      "display_name": "Day 2 - Stop 330",
+      "lat": 46.92687767252154,
+      "lng": -122.81197767430754,
+      "platform": "float",
+      "alt": 47.25
+    },
+    {
+      "site_id": "img_20260429_153413_00_273",
+      "display_name": "Day 2 - Stop 331",
+      "lat": 46.927326054664285,
+      "lng": -122.81223954983922,
+      "platform": "float",
+      "alt": 47.1
+    },
+    {
+      "site_id": "img_20260429_153547_00_274",
+      "display_name": "Day 2 - Stop 332",
+      "lat": 46.9275718673585,
+      "lng": -122.81251546633146,
+      "platform": "float",
+      "alt": 46.79
     }
   ],
   "basemap_type": "xyz_tile",

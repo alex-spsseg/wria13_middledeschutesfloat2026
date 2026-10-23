@@ -8,4 +8,4 @@ Live site: [All tours](https://alex-spsseg.github.io/wria13_middledeschutesfloat
 
 ## Tours
 
-- [Middle Deschutes Float - Day 1](https://alex-spsseg.github.io/wria13_middledeschutesfloat2026/index.html?tour=20260428) (visited 2026-04-28, 32 stops)
+- [Middle Deschutes Float](https://alex-spsseg.github.io/wria13_middledeschutesfloat2026/index.html?tour=20260428) (visited 2026-04-28, 498 stops)
